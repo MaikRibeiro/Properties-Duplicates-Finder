@@ -18,10 +18,12 @@ This tool is designed to ensure the correctness and consistency of property file
 - Place the `.properties` file in the directory: `src/com/resources/`
 
 ### Expected Input .properties
+```
 key1 = value1
 key2 = value2
 key3 =
 key1 = value3
+```
 
 ### Sample Output
 For the above file, the program outputs:
@@ -67,10 +69,13 @@ Esta ferramenta garante a consistência e a validade dos arquivos de propriedade
 
 ### Formato Esperado
 O arquivo .properties deve seguir o formato:
+
+```
 chave1 = valor 1
 chave2 = valor 2
 chave3 =
 chave1 = valor 3
+```
 
 ### Exemplo de Saída
 Para o arquivo acima, o programa exibirá:
