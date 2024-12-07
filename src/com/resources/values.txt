@@ -1,7 +1,0 @@
-this is duplicate value
-value 1
-Teste 0
-Test 1
-Test 2
-Test 3
-Test 4
