@@ -154,9 +154,14 @@ public class GetKeysAndValues {
 		}
 	}
 	
+	public void getBoth(String fileName, boolean addOperatorEqual) {
+		getKeys(fileName, addOperatorEqual);
+		getValues(fileName);
+	}
+	
 	public static void main(String[] args) {
 		GetKeysAndValues getKeysAndValues = new GetKeysAndValues();
 		
-		getKeysAndValues.getValues("test.properties");
+		getKeysAndValues.getBoth("test.properties", false);
 	}
 }
