@@ -9,28 +9,31 @@ import java.util.HashMap;
 import java.util.HashSet;
 
 public class DuplicatePropertiesFinder {
+
+	private final String ROOT_URI = "src/com/resources/";
+
+	HashSet<String> hsUniqueKeys = new HashSet<String>();
+	HashSet<String> hsUniqueValues = new HashSet<String>();
+	HashSet<String> hsDuplicateKeys = new HashSet<String>();
+	HashSet<String> hsDuplicateValues = new HashSet<String>();
+	HashSet<String> alValuelessKey = new HashSet<String>();
+
 	public void checkFile(String fileName) {
+
+		if (fileName == null || fileName.isBlank()) {
+			System.err.println("Error: Enter the file name");
+			return;
+		}
 
 		BufferedReader br = null;
 		try {
 
-			if (fileName == null || fileName.isBlank()) {
-				System.err.println("Error: Enter the file name");
-				return;
-			}
-
-			br = new BufferedReader(new InputStreamReader(new FileInputStream("src/com/resources/" + fileName), "UTF-8"));
-
-			HashSet<String> hsUniqueKeys = new HashSet<String>();
-			HashSet<String> hsUniqueValues = new HashSet<String>();
-			HashSet<String> hsDuplicateKeys = new HashSet<String>();
-			HashSet<String> hsDuplicateValues = new HashSet<String>();
-			HashSet<String> alValuelessKey = new HashSet<String>();
+			br = new BufferedReader(new InputStreamReader(new FileInputStream(ROOT_URI + fileName), "UTF-8"));
 
 			boolean hasDuplicities = false;
 
 			String line;
-			while ((line = br.readLine()) != null && !line.isEmpty()) {
+			while ((line = br.readLine()) != null && !line.isBlank()) {
 
 				/**
 				 * Fields[0] returns key
@@ -39,7 +42,7 @@ public class DuplicatePropertiesFinder {
 				String[] fields = line.split("=");
 				String key = fields[0].trim();
 				String value = (fields.length > 1) ? fields[1].trim() : null;
-
+				
 				// Check for duplicate keys
 				if (!hsUniqueKeys.add(key)) {
 					hsDuplicateKeys.add(key);
@@ -53,8 +56,10 @@ public class DuplicatePropertiesFinder {
 				}
 
 				// Check for keys without values
-				if (value == null)
+				if (value == null) {
 					alValuelessKey.add(key);
+					hasDuplicities = true;
+				}
 			}
 
       if (hasDuplicities) {
@@ -90,6 +95,14 @@ public class DuplicatePropertiesFinder {
 		} finally {
 			if (br != null) 
 				try { br.close(); } catch (IOException e) { System.out.println(e.getMessage()); }
+		}
+	}
+
+	public void getKeys(String propertiesFile, boolean addOperatorEqual) {
+
+		if (propertiesFile == null || propertiesFile.isBlank()) {
+			System.err.println("Error: Enter a file name");
+			return;
 		}
 	}
 
