@@ -153,6 +153,17 @@ public class DuplicatePropertiesFinder {
 				}
 			}
 
+			if (bError)
+				System.out.println(sbError.toString());
+			else {
+				for (String s : alKeys) {
+					if (addOperatorEqual)
+						System.out.println(s + " =");
+					else
+						System.out.println(s);
+				}
+			}
+
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
 
