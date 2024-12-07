@@ -3,8 +3,10 @@ package com.javaHelper;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -169,6 +171,53 @@ public class GetKeysAndValues {
 		BufferedReader brPathKey = null;
 		BufferedReader brPathValues = null;
 		BufferedWriter bwWriter = null;
+		
+		try {
+			brPathKey = new BufferedReader(new InputStreamReader(new FileInputStream(DuplicatePropertiesFinder.ROOT_URI + keys), "UTF-8"));
+			brPathValues = new BufferedReader(new InputStreamReader(new FileInputStream(DuplicatePropertiesFinder.ROOT_URI + values), "UTF-8"));
+			bwWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(DuplicatePropertiesFinder.ROOT_URI + "result.txt"), "UTF-8"));
+			
+			String lineKey = "";
+			String lineValue = "";
+			
+			int largestLineLength = 0;
+
+			ArrayList<String> alKeysAndValues = new ArrayList<String>();
+			
+			while ((lineKey = brPathKey.readLine()) != null && (lineValue = brPathValues.readLine()) != null) {
+				if (largestLineLength < lineKey.length())
+					largestLineLength = lineKey.length() + 1;
+				
+				alKeysAndValues.add(lineKey + " = " + lineValue);
+			}
+			
+			for (String s : alKeysAndValues) {
+				String[] fields = s.split("=");
+				String key = fields[0];
+				String value = fields[1];
+
+				while (key.length() < largestLineLength)
+					key += " ";
+				
+				bwWriter.write(key + " = " + value);
+				bwWriter.newLine();
+			}
+			
+			System.out.println("Completed! You can find the results in src/com/resources/result.txt");
+			
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+
+		} finally {
+			if (brPathKey != null)
+				try { brPathKey.close(); } catch (Exception e2) { System.out.println(e2.getMessage()); }
+
+			if (brPathValues != null)
+				try { brPathValues.close(); } catch (Exception e3) { System.out.println(e3.getMessage()); }
+
+			if (bwWriter != null)
+				try { bwWriter.close(); } catch (Exception e4) { System.out.println(e4.getMessage()); }
+		}
 	}
 	
 	public static void main(String[] args) {
