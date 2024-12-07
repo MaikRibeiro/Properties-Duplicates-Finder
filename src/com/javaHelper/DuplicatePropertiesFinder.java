@@ -1,25 +1,25 @@
 package com.javaHelper;
 
-import java.io.File;
+import java.io.BufferedReader;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Scanner;
 
 public class DuplicatePropertiesFinder {
 	public void checkFile(String fileName) {
 
-		Scanner scanner = null;
-
+		BufferedReader br = null;
 		try {
 
 			if (fileName == null || fileName.isBlank()) {
-				System.err.println("Enter the file name");
+				System.err.println("Error: Enter the file name");
 				return;
 			}
 
-			File file = new File("src/com/resources/" + fileName);
-			scanner = new Scanner(file);
+			br = new BufferedReader(new InputStreamReader(new FileInputStream("src/com/resources/" + fileName), "UTF-8"));
 
 			HashSet<String> hsUniqueKeys = new HashSet<String>();
 			HashSet<String> hsUniqueValues = new HashSet<String>();
@@ -29,12 +29,9 @@ public class DuplicatePropertiesFinder {
 
 			boolean hasDuplicities = false;
 
-			while (scanner.hasNextLine()) {
-				String line = scanner.nextLine();
+			String line;
+			while ((line = br.readLine()) != null && !line.isEmpty()) {
 
-				if (line.isEmpty())
-					continue;
-				
 				/**
 				 * Fields[0] returns key
 				 * Fields[1] returns value
@@ -61,7 +58,7 @@ public class DuplicatePropertiesFinder {
 			}
 
       if (hasDuplicities) {
-      	
+
       		// Map to group results
           HashMap<String, HashSet<String>> resultMap = new HashMap<String, HashSet<String>>();
           resultMap.put("Keys Without Values", alValuelessKey);
@@ -69,17 +66,17 @@ public class DuplicatePropertiesFinder {
           resultMap.put("Duplicate Values", new HashSet<String>(hsDuplicateValues));
 
           StringBuffer result = new StringBuffer();
-          
+
           // Display results all at once
           for (HashMap.Entry<String, HashSet<String>> entry : resultMap.entrySet()) {
               result.append("------------ ").append(entry.getKey()).append(" ------------\n");
 
               for (String item : entry.getValue())
                   result.append(item).append("\n");
-          }
 
+          }
           System.out.println(result.toString());
-				
+
 			} else {
 				System.out.println("There are no duplicate keys or values.");
 			}
@@ -87,12 +84,15 @@ public class DuplicatePropertiesFinder {
 		} catch (FileNotFoundException e) {
 			System.out.println("Error: " + e.getMessage());
 
+		} catch (Exception e) {
+			System.out.println("Error: " + e);
+
 		} finally {
-			if (scanner != null)
-				scanner.close();
+			if (br != null) 
+				try { br.close(); } catch (IOException e) { System.out.println(e.getMessage()); }
 		}
 	}
-	
+
 	public static void main(String[] args) {
 		DuplicatePropertiesFinder duplicatePropertiesFinder = new DuplicatePropertiesFinder();
 		duplicatePropertiesFinder.checkFile("test.properties");
