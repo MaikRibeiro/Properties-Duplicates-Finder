@@ -159,9 +159,20 @@ public class GetKeysAndValues {
 		getValues(fileName);
 	}
 	
+	public void matchKeysAndValues(String keys, String values) {
+		
+		if ((keys == null || keys.isBlank()) && (values == null || values.isBlank())) {
+			System.err.println("Error: Enter a keys or values file");
+			return;
+		}
+		
+		BufferedReader brPathKey = null;
+		BufferedReader brPathValues = null;
+		BufferedWriter bwWriter = null;
+	}
+	
 	public static void main(String[] args) {
 		GetKeysAndValues getKeysAndValues = new GetKeysAndValues();
-		
-		getKeysAndValues.getBoth("test.properties", false);
+		getKeysAndValues.matchKeysAndValues("keys.txt", "values.txt");
 	}
 }
