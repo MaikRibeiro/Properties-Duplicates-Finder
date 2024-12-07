@@ -1,8 +1,7 @@
-THIS_IS_A_DUPLICATE_KEY =
-VALUE_1 =
-VALUE_2 =
-TEST_0 =
-TEST_1 =
-TEST_2 =
-TEST_3 =
-TEST_4 =
+value 1
+this is duplicate value
+asda
+Test 1
+Test 2
+Test 3
+Test 4

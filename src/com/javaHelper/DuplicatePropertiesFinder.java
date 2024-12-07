@@ -12,12 +12,6 @@ public class DuplicatePropertiesFinder {
 
 	protected static final String ROOT_URI = "src/com/resources/";
 
-	HashSet<String> hsUniqueKeys = new HashSet<String>();
-	HashSet<String> hsUniqueValues = new HashSet<String>();
-	HashSet<String> hsDuplicateKeys = new HashSet<String>();
-	HashSet<String> hsDuplicateValues = new HashSet<String>();
-	HashSet<String> alValuelessKey = new HashSet<String>();
-
 	public void checkFile(String fileName) {
 
 		if (fileName == null || fileName.isBlank()) {
@@ -29,6 +23,12 @@ public class DuplicatePropertiesFinder {
 		try {
 
 			br = new BufferedReader(new InputStreamReader(new FileInputStream(ROOT_URI + fileName), "UTF-8"));
+
+			HashSet<String> hsUniqueKeys = new HashSet<String>();
+			HashSet<String> hsUniqueValues = new HashSet<String>();
+			HashSet<String> hsDuplicateKeys = new HashSet<String>();
+			HashSet<String> hsDuplicateValues = new HashSet<String>();
+			HashSet<String> alValuelessKey = new HashSet<String>();
 
 			boolean hasDuplicities = false;
 
