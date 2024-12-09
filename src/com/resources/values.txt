@@ -1,7 +1,3498 @@
-this is duplicate value
-value 1
-Teste 0
-Test 1
-Test 2
-Test 3
-Test 4
+Cliente
+Usuario
+Contraseña
+Contraseña olvidada
+Entre en
+Correo electrónico
+Grupo activo
+Configure
+SEGUIMIENTO
+Vehículos
+Individual
+Ocurrencia
+Comandos
+GESTIÓN
+Cuadro de mandos
+Clientes
+ADMINISTRACIÓN
+Usuarios
+Operaciones
+Equipamiento
+Fichas
+Zonas
+Integración
+Interfaz clara
+Interfaz oscura
+Sistema estándar
+Salida
+Cambiar idioma
+Filtros
+Filtro
+Documento
+Filtro
+Carga
+Guardar
+Exportar
+Archivo XLS
+Archivo CSV
+Añadir
+Plataforma
+Vehículo
+Dirección
+Contacto principal
+Creado en
+Utilice la
+realizar una búsqueda
+Conectarse al Cliente
+LISTA DE USUARIOS
+LISTA DE VEHÍCULOS
+Mostrar
+Registro(s)
+Guardado correctamente
+Editado con éxito.
+¿Qué quieres hacer ahora?
+Añadir usuarios a este cliente
+Añadir vehículos a este cliente
+Añadir un nuevo cliente
+Cerrar
+Registro de clientes
+Cambiar de cliente
+Inscripción
+Póngase en contacto con nosotros
+Tipo
+Seleccione
+Particulares
+Persona jurídica
+CNPJ
+CPF
+Error
+Cliente(nombre)
+Plataforma (inicio de sesión)
+Nombre de la empresa
+Teléfono
+Contacto financiero
+Correo electrónico financiero
+Teléfono financiero
+Contacto Servicio 1
+Centro de llamadas 1
+Contraseña 1
+Contraseña 1
+Estado
+Municipio
+Calle
+Número
+Barrio
+CÓDIGO POSTAL
+Complemento
+Huso horario
+Cancelar
+Descargar
+Parámetros del sistema
+Funcionamiento estándar
+Ninguno
+Grupo estándar
+Vincula automáticamente los nuevos usuarios al grupo predeterminado
+No vincula automáticamente a los nuevos usuarios al grupo predeterminado
+Contrato obligatorio
+Sí
+No
+Sistema GR
+Mostrar Empresas de Gestión de Riesgos (valores por defecto del sistema) al vincular vehículos a nuevos Grupos.
+Mostrar
+No mostrar
+Posición sin localización GPS
+Cuando se aparca en lugares sin línea de visión GPS, el dispositivo puede enviar localizaciones inexactas debido a la falta de línea de visión GPS. No actualizar Last Position con la ubicación LBS en este caso puede mejorar la experiencia del usuario final.
+Utilizar localización LBS cuando el GPS no es válido y el encendido está desconectado
+No actualizar la localización LBS cuando el GPS no es válido y el encendido está desconectado
+Tras un nuevo suceso
+Número de sonidos de sirena tras un nuevo suceso
+No hacer sonar la sirena Ni una vez
+Sonido de sirena 1 vez
+Sonar la sirena 2 veces
+Sonar la sirena 3 veces
+Sonar la sirena 4 veces
+Sonar la sirena 5 veces
+Prioridad de la sirena
+Elija la prioridad de la sirena para que suene cuando se produzca un suceso en el nivel de prioridad
+Personalización
+Tipo de logotipo
+Tamaño máximo 250x50 px
+Color primario
+Color secundario
+Utilizar gradiente
+Los parámetros de esta página se cargan cuando se accede al sistema.
+Por lo tanto, es necesario que los usuarios se desconecten y vuelvan a conectarse para que esto surta efecto.
+Posiciones sin GPS válido
+En algunos casos, las posiciones pueden contener datos GPS no válidos. Puede optar por utilizar datos de localización LBS aproximados o utilizar la localización GPS aunque sea imprecisa.
+Utilizar la localización LBS cuando el GPS no es válido
+Utiliza la localización GPS aunque el GPS no sea válido
+Títulos
+Ficha Inactivo
+Ficha Activo
+Nombre
+Información
+Opciones
+Perfil
+Clave de integración
+GENERAR NUEVA CLAVE DE INTEGRACIÓN
+RESTABLECER CONTRASEÑA
+MODIFICAR
+GRUPOS
+INICIAR SESIÓN COMO
+Póngase en contacto con
+USUARIO
+Repetir la contraseña
+Usuario activo
+Contraseña temporal
+El sistema le pedirá uno nuevo la próxima vez que se conecte.
+Seleccione
+Si no se introduce ninguna contraseña, seguirá siendo la misma
+Acceda a
+La IP de los usuarios debe empezar por o ser igual al valor introducido
+Puede introducir más de una IP, sólo tiene que introducir una por línea hasta un máximo de 255 caracteres.
+Tiempos de acceso inicial
+Horario de acceso final
+Días de la semana
+DOM
+SEG
+TER
+MIÉRCOLES
+QUI
+VIERNES
+SAB
+Desconexión automática
+Si se programan uno o más días de la semana, sólo se permitirá el acceso en esos días
+Borrar
+Volver
+¿De verdad quieres restablecer la contraseña?
+¿Realmente desea generar una nueva clave de integración?
+SÍ
+NO
+Grupos
+Grupo
+Fecha
+Clave
+Activo
+Eliminar
+¿Realmente desea eliminar los Usuarios seleccionados?
+¿Realmente desea eliminar los Vehículos seleccionados?
+Placa
+Mostrar
+Equipamiento
+VEHÍCULOS
+USUARIOS
+Opciones de grupo
+¿Realmente desea eliminar los Grupos seleccionados?
+Serie
+Rejilla dinámica
+Opciones de cuadrícula
+Pida
+Apariencia
+Cualquier norma
+Introducir un texto
+CLÁUSULA
+Cláusula
+Color de fondo
+Color del texto
+Ejemplo
+Subtítulo
+Descripción
+¿Realmente desea eliminar las cláusulas seleccionadas?
+Campo
+Estado
+Operador
+Días
+Horas
+Actas
+Operador de tiempo
+Valor
+Separe uno o más valores con ';' (punto y coma) y si alguno de los valores se considera verdadero la Cláusula también se considerará verdadera.
+Conductor
+Identificador
+Hexadecimal
+Decimal
+RG
+CNH
+Validez CNH
+Categoría
+Creado por
+Tecnología
+ICCID
+Opción de equipamiento
+Producto
+Chip
+Asignación
+ELIMINAR
+CIERRE
+Registro de equipos
+Edición de equipos
+Enlaces
+Stock
+Central
+Corredor
+Operador
+Enlace
+Grupos de
+Inicio de sesión
+Círculo
+Polígono
+Ruta
+Margen
+Gana en
+Sin fecha
+Fecha de nacimiento
+Registro de conductores
+Editar Conductor
+Operación
+Ocurrencias
+AÑADE
+Inserte
+Todos
+en
+NOMBRE
+EMAIL
+VISIBLE
+CENTRO
+CLIENTE
+GR
+TIEMPO
+Día
+Tiempo
+Nunca
+Destinatarios de correo electrónico
+Asunto del correo electrónico
+Contenido del correo electrónico
+TOKENS
+personalizar el asunto y el contenido del correo electrónico
+Lista de fichas
+VEI_PLACA
+Placa del vehículo
+VEI_DISPLAY
+Pantalla del vehículo
+VEI_ESPEC
+Especificación del vehículo
+EQU_SN
+Número de serie del equipo
+EMP_NAME
+Nombre de la empresa
+OCO_NAME
+Nombre del suceso
+POL_NAME
+Nombre de la zona (SI hay una zona implicada en el suceso)
+EVT_NAME
+Evento que causó el suceso
+EVT_DATA
+Fecha GPS (dd/mm/aaaa hh:mm:ss)
+EVT_LATITUD
+Latitud
+EVT_LONGITUD
+Longitud
+EVT_IGNICIÓN
+Encendido (Sí/No)
+EVT_SPEED
+Velocidad
+FIN_LOGRADO
+FIN_MUNICIPIO
+ESTADO_FIN
+FIN_UF
+UF (abreviatura)
+DATOS_SIS
+Fecha de tratamiento del suceso
+GMP_ENLACE
+Enlace a la visualización de GoogleMaps
+Texto copiado correctamente
+¿Realmente desea eliminar estas Ocurrencias?
+¿Realmente quiere eliminar estas Áreas?
+Regla
+Acciones
+Color del indicador
+EDITAR
+Activando esta tecla, basta con que una de las reglas sea válida para que el vehículo sea incluido en la Parrilla. Para que la activación sólo se produzca cuando se cumplan todas las reglas, desactive esta tecla.
+Editar
+EXCLUIR
+PANTALLA
+Visibilidad (Web)
+Notificaciones(App)
+Gestor de riesgos
+El token de texto
+se ha copiado correctamente
+Director
+Gestionado
+Temporal
+Última Com
+Empresa
+Última comunicación
+ENTRADA
+SALIDA
+CALIBRACIÓN
+GRS
+VER ÚLTIMA POSICIÓN EN GOOGLEMAPS
+Gestor estándar
+Activación temporizada - Días
+Contador horario
+Contador horario
+Bloqueo
+Estándar
+Color
+Marca
+Modelo
+Año
+Fabricación
+Renavam
+Chasis
+Salida
+PUERTA
+SERIE
+ID
+EVENTO
+EN
+OFF
+IDENTIFICACIÓN
+I/0
+Configuraciones de E/S de
+Sensor de temperatura
+Entrada
+Identificación
+IOs eliminados con éxito.
+Se ha producido un error al cambiar las OI de este vehículo.
+¿Realmente desea eliminar la OI seleccionada?
+Calibración
+No calibrar
+Calibrar con el valor del rastreador
+Calibración manual
+Valor del hodómetro
+Responsable
+Inserción
+¿De verdad quiere eliminar a los gestores de riesgos?
+GR(s) seleccionado(s) retirado(s) con éxito del Vehículo
+Se ha producido un error al eliminar GR de este Vehículo
+VEA
+Contacto Servicio 2
+Centro de llamadas 2
+Contraseña 2
+Contraseña 2
+Contacto Servicio 3
+Centro de llamadas 3
+Contraseña 3
+Contraseña 3
+Servicio
+Medidas adoptadas en caso de incumplimiento
+Fecha de inserción
+Observación
+Rellene el campo Nombre
+IP de acceso
+Permisos
+¿Realmente desea eliminar el Perfil seleccionado?
+PERMISOS
+Contrato de servicios
+Proporcione la lista de equipos
+Equipo que debe insertarse
+Prioridad
+Suceso
+Ausencia de acontecimiento
+Tiempo de estado de encendido
+Falta de comunicación
+Agrupación de viajes
+Proximidad en funcionamiento
+Área específica
+Ocurrencia manual
+Cualquier
+Eventos
+Estado Tiempo
+Periodo
+Repetición en
+No repetir
+Tiempo máximo en LBS
+Distancia máxima en LBS
+Tiempo máximo en GPS
+Distancia máxima GPS
+En
+Entrada y salida
+Entrada
+Salida
+SIEMPRE
+Por encima o por debajo del límite
+Por encima del límite
+Por debajo del límite
+Dentro de los límites
+Hora del día
+Límite de generación de tiempo
+Velocidad
+Mínimo
+Máximo
+Batería de reserva % Alcance
+Rango de tensión de red
+Rango de temperatura (interno)
+Encendido
+En
+Fuera de
+En
+En
+Zona de riesgo
+Punto de control
+Centro de distribución
+Parada autorizada
+Ancla
+Sombra
+Si se han reservado uno o más días de la semana, la incidencia sólo se generará bajo esta condición
+Mínimo
+Máximo
+DESCRIPCIÓN
+ACCIONES
+Envío de parámetros
+Intervalo de envío detenido
+Segundos
+Intervalo de envío en movimiento
+Intervalo de envío de emergencias
+Intentos de envío de emergencias
+Distancia para enviar posiciones
+Metros
+Tiempo KeepAlive
+Intervalo de detención de envío de SMS
+Intervalo de envío de SMS en movimiento
+Número de posiciones por SMS
+Para iniciar sesión, debe introducir su nombre de usuario
+Para iniciar sesión, debe introducir su ID de usuario.
+Para conectarse, debe introducir su contraseña.
+Intervalo de recepción en modo normal
+Periodo de recepción en modo normal
+o
+Milisegundos
+Intervalo de recepción GPRS en modo normal
+Intervalo RX en emergencia
+Intentos de envío de RF de emergencia
+Intervalo GPRS RX en emergencia
+Periodo de radiografías de urgencia
+Retardo para entrar en modo reposo
+Retraso para confirmar la presencia del interferente
+Detección de interferencias
+Nuevos parámetros (ISCA)
+Abrir la caja de cartón
+Desactivar
+Emergencia
+Advertencia
+Desconexión por pulsador
+Activar
+Ancho de banda
+Canal RF (MHz)
+Tipo de codificación
+Sólo
+e
+Mensaje ampliado
+Detección de interferencias continuas
+Parámetros
+Posición Tiempo
+Dormir
+Desactivado
+Activado
+Ping
+Faro
+Cierre
+Por favor, introduzca el Intervalo de Envío Detenido correcto (0 - 86400)
+Por favor, introduzca el intervalo correcto de Envío en Movimiento (0 - 60000)
+Por favor, rellene correctamente el Intervalo de Despacho de Emergencia (0 - 9999)
+Rellene correctamente Intentos de envío de emergencia (0 - 65500)
+Rellene correctamente la distancia de envío de posición (0 - 60000)
+Rellene correctamente el intervalo de envío KeepAlive
+Por favor, rellene correctamente el Intervalo de Envío de SMS Detenido
+Rellene correctamente el intervalo de envío de SMS
+Rellene correctamente el número de posiciones por SMS
+Por favor, rellene los datos de la hora STC
+Por favor, compruebe los campos y corríjalos para continuar
+Tratamiento estándar
+Tratamiento
+Último estado
+Activación temporizada
+¿De verdad quieres activar este Vehículo?
+hasta el día
+Activar
+Estilo
+Fuente de la posición
+Puntos
+Leyenda
+Tipos de vehículos
+Otros
+Coche
+SUV
+Recogida
+Moto
+Autobuses
+Tractor
+Camión
+Camión de basura
+Máquina de limpieza
+Cebo
+Camión
+Caballo
+Persona
+Moto acuática
+Borde y trazo
+Encendido Off
+Encendido en movimiento
+Encendido Parado
+En caso de emergencia
+LBS
+Antena conectada
+Antena vecina
+Sugerencia de Google (Antena conectada)
+Sugerencia de Google (Antena vecina)
+LoRa
+Antena principal
+Antena secundaria
+ERB móvil
+Historia
+Portada
+En memoria
+Pista
+Salida
+Destino
+Puntos de referencia
+Ciudad
+Remitente
+Transportista
+Peajes
+gasolinera
+Supervisión
+Escalas
+Terminal
+Taller
+Agente
+Agente con antena
+Tipos
+Registrado manualmente
+Generar ruta
+Origen
+Dirección de búsqueda
+Stop
+Buscar en
+Ruta
+Distancia
+Duración
+Grupo de zonas
+Historia de la posición
+Inicio
+Fin
+En línea y memoria
+Sólo en línea
+Sólo memoria
+Fecha GPS
+Sistema de fechas
+Buscar en
+Ruta de uso
+Generación de rutas Google
+INFORMES
+Acceso al sistema
+Minimizar
+Maximice
+Posición
+Confirmar contraseña
+Cambiar contraseña
+Asistencia
+Configuración
+Enviar orden
+Última posición del vehículo
+Enviar
+Las instrucciones para restablecer la contraseña se enviarán por correo electrónico
+Sin filtro
+Registro de acceso al sistema
+IP
+Sistema
+Autentificado
+Hasta
+En
+Historial de comandos
+Informe del historial de comandos
+Intentos
+Archivo PDF
+Comando
+Última ubicación
+Ubicación
+Referencia
+Fecha Ins
+Ver en el mapa
+Contactos de servicio
+0 de 255 caracteres
+TRATAMIENTO ESTÁNDAR
+SAVE NUEVO
+Pendiente
+Finalizar
+Historia del tratamiento
+Realmente desea finalizar (sin manipular) todas las incidencias pendientes del vehículo
+¿Realmente desea finalizar (sin tratamiento) TODAS las incidencias?
+Cancelar TODOS los comandos
+¿Realmente quieres cancelar TODOS los comandos?
+Realmente quieres cancelar todos los comandos pendientes del vehículo
+¿Realmente quieres cancelar el comando
+para el vehículo
+Informe sobre movimientos
+Movimiento
+Trabajo
+Informe de trabajo
+Fin de la historia
+Velocidad media (Km/h)
+Asistencia al vehículo
+Ruta seleccionada
+Tiempo total
+Ig Tiempo libre
+Ig A Tiempo
+Batalla completa
+Velocidad máxima
+Productividad
+Inicio del evento
+Evento final
+Fecha de uso
+GPS
+SIS
+Eventos
+Viaje
+Informe de viaje
+Tiempo
+Modo
+Posición seleccionada
+Batería
+Tensión
+Detenido
+Puestos
+GPS válido
+GPS no válido
+En línea
+Memoria
+Solicitar
+Día de la semana
+Historial de incidencias
+Informe de activación
+Activación
+Registros
+Activos
+Inactivo
+Última
+Agrupaciones
+Bloquear vehículo
+Desbloquear vehículo
+Registro de integración
+Finalizado
+Fuente
+Punto de referencia
+¿Realmente quieres enviar el comando
+a
+Por favor, introduzca la Latitud
+Introduzca la longitud
+Al cambiar el estilo de Área se perderá el dibujo actual. ¿Aún desea continuar?
+Reparto de cargos
+Caducado
+Creación
+Incluir el reparto de puestos
+Editar Posición Compartida
+No se han encontrado registros para esta búsqueda
+Debe rellenar uno de los campos de filtro.
+¿Quieres añadir un nuevo usuario?
+Se ha producido un error al insertar el Grupo para el Usuario
+El usuario sólo debe contener letras, números o los siguientes caracteres especiales: '_', '-', '.', '@'
+El correo electrónico proporcionado no parece válido
+Seleccione la empresa
+Seleccione Perfil
+Introduzca el nombre
+Informe al usuario
+Introduzca su dirección de correo electrónico
+Registrado con éxito
+Cambiado con éxito
+Se ha producido un error al intentar entrar en el Grupo.
+Rellene el campo Nombre
+Hubo un problema al cargar los datos de la Central
+Se ha producido un error al intentar registrar este cliente.
+Las contraseñas deben ser idénticas.
+Se ha producido un error al intentar registrar este usuario
+Se ha producido un error al intentar insertar este cliente.
+Se ha producido un problema al introducir los permisos para el perfil de supervisión.
+Se ha producido un problema al insertar el perfil de supervisión.
+Se ha producido un problema al introducir permisos para Supervisión de perfiles + Comandos.
+Se ha producido un problema al entrar en Perfil de Monitorización + Comandos.
+Se ha producido un error al introducir Usuario.
+Se ha producido un error al vincular el usuario al grupo por defecto de la empresa
+Creación de usuarios
+Se ha producido un error al intentar cambiar este Usuario
+Hubo un problema al restablecer la contraseña del usuario
+Se ha restablecido correctamente la contraseña del usuario
+Clave cambiada con éxito a Usuario
+Usuarios introducidos correctamente para Usuario
+Se ha producido un problema al obtener los datos del revendedor para el usuario
+Hubo un problema al generar el correo electrónico para el usuario
+Grupo(s) introducido(s) correctamente para el usuario
+Se ha producido un error al eliminar el Grupo de Usuarios
+Grupo eliminado para usuarios con éxito
+Se ha producido un error al intentar insertar este Grupo
+Se ha producido un error al intentar introducir el vehículo.
+Vehículo(s) introducido(s) correctamente.
+Vehículo(s) retirado(s) con éxito.
+Se ha producido un error al introducir Usuario(s)
+Usuario(s) introducido(s) correctamente
+Usuario(s) eliminado(s) correctamente
+Clave cambiada con éxito
+Se ha producido un error al intentar registrar este controlador
+Conductor registrado correctamente.
+Se ha producido un error al intentar insertar este controlador
+Conductor cambiado con éxito.
+Se ha producido un error al cambiar este controlador
+Se ha producido un error al registrarse
+Se ha producido un error al modificar el registro
+Se ha producido un error al intentar cambiar los permisos de este perfil.
+Permisos modificados correctamente
+(Mínimo 1 - Máximo 180)
+Desconexión programada
+Se ha producido un error al cargar las cláusulas de filtro
+El orden debe ser de -2147483648 a 2147483647
+Se ha producido un error al intentar insertar
+Introduzca la fecha en el formato DD/MM/AAAA HH:MM:SS
+Se ha producido un error al intentar eliminar
+Registro(s) eliminado(s) con éxito.
+Rellene el campo Subtítulo
+Se ha producido un error al insertar el registro.
+Seleccione al menos un artículo.
+Eliminado con éxito.
+Error de eliminación.
+No hay datos para generar el informe.
+Se ha producido un error al generar el archivo PDF
+Indique correctamente el inicio del periodo de referencia.
+Indique correctamente el final del periodo de referencia.
+La fecha de finalización debe ser posterior a la fecha de inicio.
+Ha habido un problema con los datos introducidos.
+Seleccione un grupo o un vehículo
+No hay datos para este filtro
+Indique correctamente el periodo ...
+La fecha de inicio debe ser anterior a la fecha de finalización ...
+Por favor, informe a un vehículo ...
+Hubo un problema al cargar los datos del vehículo elegido ...
+Hubo un problema al buscar datos
+Su búsqueda ha alcanzado el límite de Ocurrencias por petición, para ver los resultados completos debe reducir el periodo.
+Su búsqueda ha alcanzado el límite de Comandos por petición, para ver los resultados completos debe reducir el periodo.
+No hay datos que procesar.
+Número de equipo no válido
+Número de equipo existente ->
+Número de frecuencia no válido ->
+Cliente no informado ->
+Seleccione el Centro
+Seleccione Tecnología
+Seleccione el producto
+Introduzca el número de serie
+Se ha producido un error al establecer el enlace.
+Los registros se han introducido correctamente.
+Por favor, introduzca el campo de la matrícula.
+La fecha de desactivación debe ser posterior a hoy.
+El número de días debe estar comprendido entre 1 y 180.
+Elija un cliente.
+Usuario ya registrado.
+Equipo no encontrado para contabilización de Control de Stock.
+Producto no encontrado para contabilización de Control de Stock.
+Hubo un problema al asignar el Control de Stock a este equipo.
+Es necesario calibrar el contador de horas y/o el cuentakilómetros.
+Activado correctamente
+Hubo un problema al activar el elemento
+El campo Puerto debe tener un valor entre 1 y 32 para el tipo ENTRADA
+El campo Puerto debe tener un valor entre 1 y 16 para el tipo SALIDA
+El campo Puerto debe tener un valor entre 1 y 10 para el tipo de SENSOR DE TEMPERATURA.
+Seleccione Entrada / Salida
+Informe a Porta
+Seleccione una opción.
+Por favor, rellene el campo.
+No se ha encontrado ningún vehículo.
+Indique el tipo de zona
+El margen debe ser de 32.000 metros como máximo. Actual:
+Introduzca su latitud
+Introduzca la longitud
+El polígono debe tener al menos 3 puntos.
+La sombra debe ser de al menos 50 metros.
+La ruta debe tener al menos 2 puntos.
+Se ha producido un error al intentar registrar esta Área
+Se ha producido un error al intentar insertar esta Zona
+Se ha producido un error al intentar cambiar esta Área
+Por favor, proporcione un vehículo.
+Indique correctamente el periodo.
+No se han encontrado puestos para este periodo.
+No se han encontrado zonas.
+Seleccione el corredor
+Informe al operador
+Introduzca el número
+Introduzca el ICCID
+Se ha producido un error al intentar insertar este Chip
+Se ha producido un error al insertar este chip
+No hay datos para exportar
+Nombre de usuario o contraseña no válidos
+Las reglas de acceso no le permiten conectarse en este momento o a través de esta IP.
+Rellene el campo CNPJ
+Rellene el campo CPF
+Rellene el campo Plataforma(login)
+Rellene el campo Teléfono
+Rellene el campo Nombre de la empresa
+Rellene el campo Contacto
+Por favor, rellene el campo Email
+El inicio de sesión sólo debe contener letras, números o los siguientes caracteres especiales: '_', '-', '.', '@'
+Se ha producido un error al intentar vincular el grupo predeterminado a la empresa.
+Se ha producido un error al intentar crear un grupo por defecto para la empresa.
+La imagen debe estar proporcionada
+El tiempo de bloqueo debe estar comprendido entre 1 y 1440
+Es necesario informar al Área
+Hay un problema con los datos de esta Ocurrencia.
+Se ha producido un error al intentar insertar esta Ocurrencia
+Se ha producido un error al insertar este suceso
+Seleccione el comando que desea introducir.
+No se puede encontrar el comando a enviar.
+Introduzca el intervalo de transmisión RF correcto Modo normal (0 - 60)
+Rellene correctamente Período de transmisión RF Modo normal (0 ó 200 - 60000)
+Introduzca el intervalo de transmisión GPRS correcto Modo normal (0 - 2880)
+Por favor, rellene correctamente el Rango de Transmisión RF en Modo Emergencia (1 - 60)
+Rellene correctamente Intentos de envío RF en modo emergencia (0 - 15)
+Por favor, introduzca el Rango de Transmisión en Modo de Emergencia GPRS correcto (1 - 2880)
+Rellene correctamente el Período de transmisión RF en modo de emergencia (0 ó 200 - 60000)
+Rellene correctamente el tiempo de modo de reposo (5 - 60)
+Introduzca correctamente la fecha de inicio.
+Introduzca correctamente la fecha final.
+La fecha final debe ser mayor que la fecha inicial.
+Se ha agotado el plazo del informe.
+Equipamiento
+Equipo;Frecuencia(cebos de positrones);Placa;Visualización:Obs1;Obs2;Obs3
+Los campos Frecuencia, Tablero, Pantalla, Obs1, Obs2 y Obs3 son opcionales.
+No se proporcionó equipo para la inserción.
+Falta información o es incorrecta
+Acortar el plazo para ver los registros.
+Supervisión
+Introduzca un documento.
+Utilización
+Valor del horímetro
+Actualización
+No se han encontrado equipos
+Reiniciar
+Solicitar
+Parámetros de solicitud
+Bloqueo digital o salida digital
+Salida/bloqueo desactivado
+Antirrobo activado con control de bloqueo de la lista de tarjetas
+Antirrobo parcial, se bloquea cualquier tarjeta liberada
+Salida activa/bloqueo
+Pulso de bloqueo en la identificación de pasajeros
+Acción al apagar el vehículo
+Acción
+Finalización automática del viaje
+Finalización del viaje mediante la identificación
+Tiempo límite de identificación
+Segundos de 0 a 255
+Comunicación
+Protocolo GS-404
+Protocdol GS-402B
+Protocolo Maxtrack
+Protocolo continental VDO
+calAmp + protocolo a tiempo completo
+Datos libres de protocolo GV300
+Protocolo GV300 datos libres 402B
+Protocolo GV75
+Identificación de pasajeros
+Identificación de pasajeros desactivada
+Identificación de pasajeros activada
+Identificación del conductor
+Identificación del conductor desactivada
+Identificación del conductor activada
+Modo moto
+Modo moto desactivado
+Modo moto activado
+Replicación RS232
+Fuera de
+En
+Velocidad de transmisión
+19200 bps
+115200 bps
+Retardo del encendido en la identificación
+Retraso para la identificación de ignición desactivada
+Paquete de cierre de sesión
+Bloqueo después de 15s
+Bloqueo inmediato con el encendido conectado
+Bloqueo después de 15 segundos
+Envío de login y logout
+Envío repetido
+De 0 a 255
+Frecuencia RFDI
+Frecuencia
+Doble frecuencia
+Sólo 125khz
+Sólo 13,56mhz
+Opciones de timbre
+Zumbador activo en todas las funciones
+Zumbador sólo para alertas
+Zumbador apagado
+Alerta de pasajero no registrado
+Alerta desactivada
+Alerta activada
+Informe mensual de servicio
+Servicio mensual
+Plan
+Prospección
+Comercial
+Demostración
+Introduzca una fecha
+Hubo un problema al generar los datos.
+Seleccione un periodo válido
+Configuración APN
+Configuración general
+0 a 86400 segundos
+Descanso para dormir
+Pausa
+5 a 86400 segundos
+Ángulo a la posición
+1 a 360 grados
+De 3 a 250 km/h
+Velocidad máxima Duración
+0 a 300 segundos
+Tensión para el movimiento
+9 a 100 voltios
+Tensión a Off
+Tensión para dormir
+GPS activado/desactivado
+Señal
+Número de antenas GPS
+Activar posición por ángulo
+Alarma
+Ángulo
+Ángulo para generar la posición
+Grados - de 15 a 180
+Km/h - de 10 a 99
+Alarma de desplazamiento
+Radio de desplazamiento
+De 100 a 1000 metros
+Fuente de alimentación externa
+Latido del corazón
+Encendido
+60 - 300 segundos
+Intermitente
+Inmediato
+Alarma de carga baja
+Alarma de encendido
+Kilómetros
+Configuración del servidor
+Anfitrión
+IP o DNS
+1 - 65535
+Alarma de velocidad excesiva
+Demasiado tiempo
+De 5 a 600 segundos
+Límite de exceso
+De 1 a 120 km
+Alarma Encendido apagado
+Comprobar la hora
+De 2 a 60 segundos
+Tiempo mínimo de carga
+Configuración del protocolo
+Hora de dormir
+Plataforma y SMS conectados
+Plataforma Disconnect y Sms Conectados
+Plataforma Desconectada y Sms
+Botón de pánico Alarma
+Hora de enviar la posición
+Encendido a tiempo
+De 5 a 60 segundos
+Tiempo de apagado del encendido
+De 5 a 65000 segundos
+SITALLCOM ya aplica -3 a la zona horaria recibida
+Ajuste la zona horaria del dispositivo a 0 (cero).
+Alarma por vibración
+Encendido virtual
+1 a 3600 segundos
+Activaciones parciales
+Informe de activación parcial
+Ventas
+Activaciones
+en
+Enviar alarma de encendido
+5 a 65535 segundos
+0 a 65535 segundos
+Configuración IP
+Principal
+Secundaria
+Servidor
+Puerta
+Respuesta SMS
+Respuesta
+Sin respuesta
+0 a 255 Km/h
+Modo de ahorro de batería
+Modo 1 (GPS desactivado / GPRS desactivado)
+Modo 2 (GPS activado / GPRS desactivado)
+Modo 3 (GPS desactivado / GPRS activado)
+Hora de salir del sueño
+Sensibilidad del acelerómetro
+Número de teléfono principal SMS
+Solicitar ajustes
+Comandos transparentes
+Enviar (IGNORAR)
+Marcar / Desmarcar todo
+Número GPS
+MeioCom
+Señal ERB
+Alimentación
+Mostrar en el mapa
+Google Maps
+Vista de la calle
+-12 à +12
+De 1 a 1440 minutos
+1 a 250 Km/h
+Configuración del informe por ángulo
+De 0 a 180 grados
+Rebote
+Ajuste del tiempo de posición con el encendido conectado
+Configuración del tiempo de posición con el encendido desconectado
+0 a 2678400 segundos
+Configuración del modo de encendido
+Protocolo
+Virtual por tensión
+Física
+Restablecimiento de la conexión
+Al conectar el encendido
+Con el encendido desconectado
+Con el encendido conectado o desconectado
+0 ó 5 a 604800 Segundos
+Configuración de IP y puertos
+0 a 65535
+Configuración del informe de encendido
+Sólo encendido
+Sólo encendido desconectado
+Configuración de la tensión de encendido
+0,00 a 28,00 voltios
+Configuración del límite de velocidad
+Disparador
+Sólo exceso de velocidad
+Sólo volver a la velocidad permitida
+Intervalo de descanso
+Intervalo en movimiento
+Cantidad en memoria
+Ajuste de los tiempos de posición
+Este
+Oeste
+Hemisferio
+Horario de verano
+-12 a +12
+Configuración de la zona horaria
+Siempre encendido
+Encendido en movimiento
+Siempre apagado
+Configuración GPS
+Sensibilidad
+Configuración GSM
+Configuración del latido
+Segundos 1 - 1080
+Intervalo
+Configuración incorrecta del movimiento del acelerómetro
+Retraso
+Extremadamente alto
+Muy alta
+Alta
+No muy alto
+Normal
+Bajo
+Bajo
+Muy bajo
+Extremadamente bajo
+Configuración de los límites de potencia
+Batería interna
+mV 0 - 65535
+Rayo
+Configuración del movimiento indebido por desplazamiento
+Metros 0 ó 1 - 65535
+Establecer límites de velocidad
+Límite mínimo
+Límite máximo
+Accionamiento de salida
+Configuración del encendido virtual
+El tiempo en movimiento
+Tiempo en reposo
+Finalización
+Configuración Informe de cambio de estado del encendido
+Activado
+Discapacitados
+Carga de batería externa
+Intervalo de tiempo
+0 ó 5 a 3600 segundos
+Informe de cambio de ángulo de configuración
+0 ó 5 a 180 grados
+De 2 a 5 segundos
+Configuración automática de APN
+Configuración de la zona horaria (GMT)
+Configuración de la alarma de batería baja
+Sólo GPRS
+SMS y GPRS
+Configuración de identificación de colisiones
+Intensidad
+10 à 1024
+Defensa Retraso
+De 1 a 60 minutos
+Distancia para el envío de datos GPS
+0 o de 50 a 10000 metros
+Entrada 1 Configuración lógica
+Entrada Configuración de alarma 1
+Negativo
+Positivo
+Disparador
+GPRS + SMS + Llamada telefónica
+GRPS y Convocatoria
+Configuración de la alarma de batería externa
+Límite de baja tensión
+0,1 ó 10 a 360 voltios
+Límite de conducción
+Tiempo de detección
+De 1 a 300 segundos
+Ajuste automático de la zona horaria (GMT)
+Configuración de suspensión LED
+Configuración de la sensibilidad del sensor
+Muy alta
+Alta
+Regular
+Bajo
+Muy bajo
+Ajuste del hodómetro
+0 a 999999 Km
+Configuración de la alarma de movimiento
+Radio de maniobra
+Configuración del servidor
+Dominio
+Configuración de corte de corriente
+0 a 60 segundos
+Tiempo de carga
+0 a 3600 segundos
+Configuración de la alarma de vibración
+Inicio del GPS por tiempo de vibración
+De 0 a 300 minutos
+Tiempo de detección del sensor de vibración
+De 10 a 300 segundos
+Tiempo en condiciones
+Intervalo de alerta
+1 a 3000 segundos
+Configuración de la alarma del botón de pánico
+Configuración de la alarma de velocidad máxima
+Límite de velocidad
+Configuración de identificación de aceleración y frenado bruscos
+0 a 30 segundos
+Aceleración
+De 10 a 300 km/h
+Desaceleración
+Configuración de la curva bruta
+De 10 a 180 grados
+De 10 a 200 Km/h
+Intervalo de envío de datos GPS
+0 o 18000 segundos
+Visible para el cliente
+Contraseña
+¿Quieres configurar las E/S?
+¿Quiere calibrar su vehículo?
+¿Quieres añadir un nuevo vehículo?
+Todos
+¿Realmente desea eliminar los dispositivos seleccionados?
+Registro de sucesos
+Editar incidencia
+Correo electrónico copiado correctamente
+Sin conexión
+Visión general de su base
+Novedades
+Menos de
+Durante más de
+Menos de
+Más de
+Configuración del rango de posición
+Configuración del servidor primario
+Configuración del servidor secundario
+Ajuste de los intervalos de transmisión
+0 ó 5 a 65535 Segundos
+Intervalo de envío de pánico
+Intentos de reenvío
+De 3 a 10 intentos
+Tiempo de espera ACK
+De 10 a 60 segundos
+Grupo de información
+Hex 00 - FF
+Configuración de balizas
+Zonas de carga
+Sin límite de velocidad
+Utilizar el límite de velocidad
+Respete el límite de velocidad y no se aleje de la zona
+Modo de velocidad
+Ignore
+Pánico
+Salida 1
+Salida 2
+Salida 3
+Salida de la baliza
+Copiar la configuración a las otras Áreas
+El orden de la rejilla seleccionada ya es el último del Cliente
+El orden de la rejilla seleccionada ya es el primero del Cliente
+El pedido de la parrilla dinámica se ha actualizado correctamente
+Hubo un problema al actualizar el orden de la Rejilla Dinámica
+Ajuste del ángulo a la posición
+Ajuste de la distancia a la posición
+Velocidad máxima
+Logimetría
+Tiempo de posición con Ign ON
+Tiempo de posición con Ign OFF
+0 ó 1 a 3600 segundos
+0 ó 1 a 60 segundos
+Alarmas
+RF OFF
+MODO 1
+MODO 2
+Tiempo OFF
+1 día
+Tiempo GPS
+Acelerómetro/Sleep
+Acelerómetro ON
+Acelerómetro OFF
+Límite de batería
+3,00 a 4,00 voltios
+Límites de velocidad
+Límite máximo de velocidad
+0 ó 60 a 220 Km/h
+Hora de alarma
+Sensibilidad de la alarma
+Encendido virtual a tiempo
+Tiempo de apagado virtual
+Límites de la batería
+Límite mínimo de potencia externa
+Límite máximo de potencia externa
+0 o de 8000 a 28000 milivoltios
+0 o de 12000 a 33000 milivoltios
+0 ó 3300 a 3700 milivoltios
+0 o 3800 a 4200 milivoltios
+Límite mínimo de batería interna
+Límite máximo de batería interna
+Hora de alertar
+12000 a 30000 milivoltios
+Tensión
+Rango de posición
+Intervalo de transmisión On
+Intervalo de transmisión desactivado
+0 ó 1 a 65535 Segundos
+Descanso para dormir
+0 o 1 a 65535 Minutos
+0 ó 10 a 65535 Segundos
+Tipo de encendido
+Físico
+Virtual (inteligente/tensión)
+Virtual (Tensión)
+Virtual (acelerómetro)
+Extras
+De 0 a 250 kilómetros
+De 20 a 250 km/h
+Prioridad de envío
+Alta prioridad (FIFO)
+Prioridad baja (FIFO)
+Alta prioridad (LIFO)
+Prioridad baja (LIFO)
+Modo de reposo
+DeepSleep (SMS - Apagado / GPRS - Apagado)
+Reposo (SMS - Activado / GPRS - Desactivado)
+Siempre activado (SMS - Activado / GPRS - Activado)
+Actualización del firmware
+¿De verdad quiere actualizar su equipo?
+Configuración de alertas de temperatura
+Añadir sensor
+Índice
+Copie las normas de otros ámbitos
+Código del sensor
+Hexadecimal 12 caracteres
+Actuador
+Temperatura mínima
+Temperatura máxima
+De -55 a 125 grados
+Temperatura mínima - Tiempo de rebote
+Temperatura máxima - Tiempo de rebote
+Temperatura mínima - Restauración del tiempo de rebote
+Temperatura máxima - Restauración del tiempo de rebote
+Reglas
+Conectar el actuador cuando se supera la temperatura máxima
+Desconectar el actuador cuando se supera la temperatura máxima
+Conectar el actuador cuando se supera la temperatura mínima
+Desconectar el actuador cuando se supera la temperatura mínima
+Conectar el actuador cuando la temperatura esté en el rango normal
+Desconectar el actuador cuando la temperatura esté dentro del rango normal
+Configuración APN 1
+Configuración APN 2
+Configuración de los sensores
+Botón de pánico
+Botón antirrobo
+Cuadro de mandos
+Teclado
+Puerta del conductor
+Porta Carona
+Maletero
+Maletero lateral
+Quinta rueda
+Caja falsa
+Puertas de cabina
+Alarma de velocidad
+Batería monitorizada
+Rastreador de camiones
+Acoplamiento móvil
+Sensor configurable 1
+Sensor configurable 2
+Sensor configurable 3
+Sensor configurable 4
+Sensor configurable 5
+Sensor configurable 6
+Sensor configurable 7
+Sensor configurable 8
+Aire acondicionado
+Hormigonera mecánica LD
+Hormigonera LE mecánica
+Hormigonera electrónica LD
+Hormigonera electrónica LE
+Sensor de lluvia
+Sensor de embrague
+Sensor del freno de estacionamiento
+Sensor de luz de cruce
+Sensor de luz de carretera
+Sensor de antorcha
+Lluvia de advertencia de velocidad
+Sensor horario
+Sensor de saturación del filtro de aire
+Sensor de saturación filtro hd
+Sensor de presión de aceite del motor
+Mando de control diesel
+Botón entregado
+Botón en tránsito
+Botón Stop
+Esperando el botón del cliente
+Sensor de trinquete LD
+Sensor de trinquete LE
+Sensor de trinquete sensor de luz
+Sensor de la base estabilizadora
+Descarga del sensor de la hormigonera
+Sensor de pasajeros
+Sensor de modo avión
+Sensor de manipulación
+Sensor horario LED 1
+Sensor horario LED 2
+Sensor horario LED 3
+Sensor horario LED 4
+Sensor de hormigonera simple
+Sensor analógico
+Sensor de freno motor
+Nivel bajo
+Nivel flotante
+Nivel alto
+Polaridad
+Milisegundos/10 1 - 65535
+Configuración del actuador
+Sirena
+Activación de tierra (GND)
+Activación flotante
+Retraso
+Descansa
+Repeticiones
+Segundos 0 - 254 o 255
+Intermitente de advertencia
+Cierre del maletero
+Solenoide
+Motorizado
+Cierre automático
+Bloqueador
+Salida de tierra bloqueada / Salida flotante desbloqueada
+Salida flotante bloqueada / Salida Shore desbloqueada
+Salida Shore bloqueada / Salida Sleep desbloqueada y flotante
+Bloqueador de salida temporizada
+Aumentar
+Operador que se utilizará para la tarjeta SIM
+APN que se utilizará para la tarjeta SIM
+Configurable
+Intervalo de envío de mensaje GPS no válido
+1200 a 65535 segundos
+Tiempo máximo de espera para que el GPS sea válido durante el reposo del rastreador
+120 a 65535 segundos
+Hora de inicio del modo de reposo del rastreador
+60 a 65535 segundos
+Intervalo de envío del mensaje de seguimiento al conectar y desconectar el encendido
+10 a 65535 segundos
+Intervalo de envío del mensaje de seguimiento en reposo, para el modo simple
+Tiempo de duración del modo de violación del rastreador
+De 300 a 65535 segundos
+Intervalo de envío
+Configuración del modo super sleep
+Intervalo detenido
+Ajuste de la duración del modo de reposo progresivo
+Duración Fase
+Intervalo de fase
+Intervalo Última fase
+Configuración del bloqueador
+Tiempo de retardo inicial
+Tiempo de activación
+Tiempo de descanso
+Número de repeticiones
+Factor de aumento
+Configuración del tipo de modo de suspensión
+Simple
+Progresiva
+Configuración del acelerómetro
+Función de acelerómetro
+Detección de movimiento en Super Sleep
+Detección de movimientos sospechosos en modo reposo
+Detectar la ignición mediante el movimiento del acelerómetro
+Cambiar el tiempo de seguimiento en reposo si está en movimiento
+No enviar mensaje de encendido y apagado al detectar el encendido por acelerómetro.
+No envíe un mensaje de vehículo parado/en movimiento al sistema
+Rebote por movimiento
+1 a 255 segundos
+De rebote a parado
+Filtro de ruido
+Normas para los movimientos sospechosos
+Encendido de la sirena
+Encendido de la luz de advertencia
+Enviar mensaje al servidor
+Filtro de velocidad
+Configuración del sensor de pulso
+Combustible
+Control diésel
+Sensor de la máquina
+Sensor
+Configurar el exceso de velocidad
+1 a 254 Km/h
+Tiempo de exceso
+Número de lecturas de la batería externa
+Cuando el encendido está activado
+Lecturas por segundo 1 a 255
+Durante el sueño
+Límite de aceleración y deceleración del acelerómetro para el tacógrafo
+Límite de aceleración
+Límite de desaceleración
+Normas de envío
+No envíe
+Aceleración y desaceleración
+Regla general para la detección de interferencias
+Normas de manipulación del bloqueador
+Enviar mensaje
+Habilitar el tiempo para actuar
+Activar el tiempo de desbloqueo
+Activa el módulo RF 433 MHz (si está disponible)
+Desactiva el módulo RF 433 MHz (si está presente)
+Envía un mensaje al puerto serie
+Hora de actuar
+Hora de desbloquear
+Configuración de los tipos de actuadores de seguimiento
+Común
+Estado de Led
+Temperatura
+Modo avión
+Acelerómetro
+Granelero
+Modo monitor
+Relé
+Estado del cargador
+Tipo de zumbador
+Ajustes de aceleración y frenado brusco
+Activar el actuador cuando se produce una aceleración repentina
+Activar el actuador al frenar bruscamente
+Polaridad del actuador encendida: On flotante / Off tierra
+Flotante encendido / flotante apagado
+Polaridad del actuador
+Límite de aceleración
+Límite para Frenangement
+Tiempo de activación del actuador
+Rebote para aceleración
+Número de impulsos por revolución del sensor de RPM
+Impulsos por revolución
+Pulsos
+Factor multiplicativo
+Configurar el bloqueo automático
+Bloqueo después de desconectar el encendido
+Bloqueo después de abrir el portón trasero
+Bloqueo tras desconectar el encendido o abrir el portón trasero
+Tiempo hasta el bloqueo automático
+Configuración de la alerta de velocidad
+Por encima de la velocidad máxima
+Por encima de la velocidad máxima Lluvia
+Enviar un mensaje al sistema
+Rebote para máxima velocidad
+Rebote para velocidad máxima y %.
+Número de veces
+Tiempo mínimo
+Tiempo máximo
+Configuración de la norma general de identificación del conductor
+Hacer sonar la sirena cuando el vehículo está bloqueado por el conductor ID
+La sirena emite dos pitidos cuando reconoce una identificación de conductor
+Haz sonar la sirena cuando no reconozca una identificación de conductor
+Enviar el último número de identificación del conductor en cada mensaje de seguimiento y seguimiento en reposo
+Configurar el manejo de la antena GPS externa
+Rebote para detectar
+Configuración del envío de datos desde ERBs de módem
+Configuración de la regla de velocidad y tiempo del bloqueador
+Tiempo de detección
+Configuración del control de pérdida de batería externa del vehículo
+Ajuste del contador de horas por RPM
+Rebote a Inicio
+Rebote a parada
+Configuración del envío de mensajes de seguimiento del ángulo GPS
+Variación del ángulo
+De 5 a 180 grados
+Hora de la próxima
+Número de lecturas
+Ajuste del exceso de RPM
+RPM excesivas
+Reglas del exceso
+Enciende la sirena cuando se detecta un exceso de RPM
+Pitido de sirena cada 1 segundo cuando se detecta un exceso de RPM
+Configuración del tiempo de espera de pérdida de ID de remolque
+Tiempo de espera
+Normas para cuando se encuentre fuera de cualquier punto de control
+Enviar un mensaje al sistema cuando se produzca una detección de velocidad máxima
+Cerrar el tronco fuera del punto de control
+Abrir cofres fuera del punto de control
+Supervisa la velocidad máxima con el pitido de la sirena
+Ajuste del acelerador de RPM
+Velocidad GPS
+Activar el actuador BUZZER cuando se produce una infracción
+Configuración del motor en vacío
+Utilizar sensor RPM
+Ajuste del nivel de detección de interferencias
+Nivel
+Control de encendido por tensión de batería externa
+Tensión de encendido
+Tensión de encendido desconectada
+Voltios/100 1 a 65535
+Ajuste de calibración del sensor del cuentakilómetros
+Impulsos por kilómetro
+1 a 65535 impulsos
+Configuración de las reglas del módulo RF de 433 MHz
+Reglas para activar el módulo RF
+Cuando te quedas sin conexión GPRS
+Reglas para desactivar el módulo de radiofrecuencia
+Tiempo de activación de RF
+Tiempo máximo sin GPRS
+5 a 4294967295 Minutos
+Configuración para el bloqueo temporal por rpm
+Tiempo activo
+Configurar el modo de suspensión del módulo GPS
+El GPS estará siempre apagado
+El GPS estará apagado durante 3 horas y encendido durante 10 minutos
+El GPS siempre estará activado
+Configuración de los PUNTOS DE CONTROL
+Tolerancia
+Hace sonar la sirena si la velocidad actual supera el límite establecido
+Enciende la sirena si se encuentra dentro del punto de control (la regla de pitido no debe estar activada).
+Apaga la sirena si estás dentro del punto de control (la regla de pitido o la regla de encendido de la sirena no deben estar activadas).
+Abre el cierre del maletero dentro del punto de control si el encendido está desconectado
+Cierra la cerradura del maletero dentro del punto de control (la regla de apertura del maletero no debe estar activada).
+Envía un mensaje al avisador de velocidad actual por encima del límite configurado dentro del punto de control
+Suntech - Acelerómetro
+Movimiento
+Choque
+Colisión
+Sensor de movimiento
+Fuerza G
+Tiempo para activar la detección de golpes tras desconectar el encendido
+Segundos de 0 ó 15 - 21600
+Sensibilidad del sensor de picado
+Patrón del conductor
+Sensibilidad a la sobreaceleración
+(1 - 256 G) de 1 a 512
+Sensibilidad al frenado brusco
+Sensibilidad a la curva en negrita
+Límite de velocidad para considerar la aceleración excesiva
+Límite de velocidad para considerar un frenazo brusco
+Límite de velocidad para considerar un giro brusco
+Zumbador cuando se produce un Patrón de Conductor
+Hora de desactivar el zumbador
+De 1 a 120 segundos
+Suntech - Parámetros de los accesorios
+Dispositivo
+Lector RFID
+Tiempo de desconexión tras ausencia de comunicación
+Segundos de 30 a 7200
+Hora de informar al servidor
+Segundos de 0 a 120
+Alerta serie RS232
+Selecciona la función de 1 hilo
+Sensor de temperatura e identificación del conductor
+Tiempo para el zumbador y el inmovilizador después de la etiqueta de identificación no registrada
+Hora de inicio de la identificación del conductor tras la etiqueta de identificación
+Segundos de 0 o de 30 a 900
+Segundos de 0 o de 30 a 3600
+Botón I Añadir maestro
+16 caracteres
+Botón I Quitar Maestro
+Suntech - Recursos adicionales
+Entrada adicional 1
+Entrada adicional 2
+Entrada tipo 1
+Entrada tipo 2
+Tiempo de transmisión en la entrada 1
+Tiempo de transmisión en la entrada 2
+0 a 30 (100 ms)
+Velocidad del vehículo superada(ST20U)
+De 0 a 250 km
+Límite de velocidad (ST20U)
+Límite de temperatura del refrigerador del motor (ST20U)
+Grados De -40 a 210
+Límite de presión de aceite (ST20U)
+De 0 a 1000 KPA
+Límite de RPM del motor (ST20U)
+De 0 a 8031 RPM
+Suntech - Parámetros de conexión
+Tipos de conexión
+Manténgalo abierto
+Cerrar la conexión
+Tipo de modo de escaneado
+Global
+México
+Europa
+Brasil
+Intervalo entre latidos
+Minutos de 0 a 432000
+Detección tras interferencia
+Alerta
+Alerta y bloqueo
+Alerta y timbre
+Alerta, bloqueo y zumbador (no compatible con ST 4315U)
+Distancia al atasco
+Metros de 0 a 60000
+Tiempo sin GPS para interferencias
+Segundos de 0 a 43200
+Heartbeat para TCP
+Intervalo de latido en TCP
+Segundos de 60 a 7200
+Tipo de salida sin conexión
+Sin salida1/Sin salida2
+Con salida1/Sin salida2
+Sin salida1/Con salida2
+Con salida1/Con salida2
+Tiempo para desactivar la salida tras perder la conexión
+Segundos de 20 a 86400
+Modo de exploración
+Ignición física
+Encendido virtual con transmisión
+Encendido virtual con sensor de movimiento
+Es hora de considerar el apagado
+Momento de considerar el encendido
+Sensibilidad al movimiento para el encendido
+De 0 ó 3 a 100 (1/255G)
+Tiempo de movimiento para el encendido
+Porcentaje de tiempo de desplazamiento
+Sensibilidad al movimiento para el encendido desactivado
+Porcentaje de 30 a 100
+Segundos de 3 a 999
+Porcentaje de tiempo sin movimiento
+Tensión de encendido
+Tensión de desconexión del encendido
+Voltios de 0 a 30
+Entradas
+Ajuste del modo
+Perfil del modo de conducción
+Tiempo hasta el modo de conductor después de encender la alarma
+Perfil en modo aparcado
+Tiempo para modo estacionado después de apagar la alarma de encendido
+Perfil para el modo inactivo
+Tiempo para entrar en modo GPS inactivo
+Tiempo para entrar en modo inactivo por acelerómetro
+Tiempo para salir del modo GPS inactivo
+Tiempo para salir del modo inactivo por acelerómetro
+Tiempo de inactividad excesivo Alarma 1
+Tiempo de inactividad excesivo Alarma 2
+Alarma de tiempo de inactividad excesivo 3
+Perfil para el modo de exceso de velocidad
+Límite de velocidad para la alarma
+De 0 ó 1 a 300 km/h
+Tiempo para entrar en modo de sobrevelocidad
+Tiempo para salir del modo de sobrevelocidad
+Tiempo superior a la velocidad de alarma
+Tiempo a baja velocidad para Alarma
+Perfil para el modo de remolque
+Tipo de autenticación
+Desbloquear la seguridad del chip Si está activado
+Conexión
+Tipo de salida
+Bloqueador automático
+Pulso
+Zumbador
+No utilizado
+Pulso de la bocina
+Impulso del zumbador
+Salida desactivada (sólo en LATAM o Brasil)
+Estado de la salida
+Amortiguador para límite de velocidad
+Abrir
+Cerrado
+Número de impulsos de salida
+Muñeca alta para salida
+Tamaño de muñeca bajo para Salida
+0 a 9999 (100 ms)
+Sensibilidad del sensor de movimiento
+Modo de ahorro de energía
+Batería externa
+Comprobación de la batería interna
+16 a 20 voltios
+Límite de tensión para el modo Sleep
+Voltios de 6 a 14
+De 16 a 24 voltios
+Comportamiento cuando la batería está baja Interna
+No apagar
+Apagado si la batería del Tracker está baja o la batería externa está desconectada
+Tensión mínima de la batería interna
+Voltios de 3,40 a 3,80
+Voltios de 3,50 a 3,90
+Tensión mínima de alarma
+Perfiles
+Intervalo de posición del perfil
+Distancia a la posición del perfil
+Calificaciones para el puesto Perfil
+De 0 ó 5 a 86400 segundos
+de 50 a 65535 metros
+10 a 179 grados
+Ajustes de alarma
+La hora del antirrobo
+de 0 a 60000 segundos
+Tiempo de alerta tras una infracción antirrobo
+Formato
+Dirección de la respuesta
+Servidor/SMS
+Alarma de velocidad
+Cifrado AES128
+32 caracteres
+Tipo de dispositivo en el puerto serie RS232
+Velocidad en baudios del puerto serie RS232
+Alarma de nivel de combustible en puerto serie
+De 0 a 4095
+Velocidad en baudios del puerto serie RS485
+Bloquear comandos fuera de la lista de números
+Alarma de límite de temperatura máxima
+Alarma de límite mínimo de temperatura
+Grados de -55 a 125
+Acción al detectar la apertura de la caja de cartón
+Activar y el dispositivo pasa al modo de emergencia
+Activar y dispositivo envía evento de alerta
+Se apaga al desconectar el encendido
+Manténgase conectado tras la detección del bloqueador
+Retraso para entrar en modo reposo
+Función de antena vecina
+Duración de la recepción en modo normal
+Número de transmisiones en modo de emergencia
+de 0 a 15
+Intervalo de transmisión en modo de emergencia
+Duración de la recepción en modo de emergencia
+De 1 a 60 segundos
+de 6 a 25khz
+Ancho de banda
+Hora de fijar el GPS
+Tipo de informe GNSS
+Sin información GPS
+Sólo alerta GPS
+GPS sólo en modo de emergencia
+GPS en modo emergencia y alerta
+GPS sólo en modo normal
+GPS en modo normal y alerta
+GPS en modo normal y de emergencia
+GPS en todos
+Configuración del dispositivo
+1 a 10
+Presencia
+Tipo de función de presencia
+Esclavo
+Maestro
+Acción de la función de presencia
+Ninguna acción
+Emergencia y alerta
+Sólo una advertencia
+Tiempo de espera de la función de presencia
+Intervalo para enviar PMR
+0 a 5760 minutos
+0 a 2880 minutos
+Número de serie del dispositivo de presencia
+9 dígitos numéricos
+No se ha podido encontrar ningún chip con este ICCID.
+No hay ningún chip registrado en el dispositivo.
+Inicio de sesión en la aplicación
+De 1 a 254 segundos
+Configuración de controladores y áreas
+Conductores
+Conductores de grupos de carga
+Parámetros Newtec
+Control de velocidad
+0 a 600 segundos
+Velocidad máxima con lluvia
+0 ó 1 a 250 Km/h
+Tolerancia a la lluvia
+Rangos de RPM
+Pista
+1 à 65000
+Telemetría
+Motor al ralentí - Velocidad
+Motor al ralentí - Tolerancia
+Embrague excesivo - Tiempo
+Bang - Velocidad
+Banguela - Hora
+Alta temperatura
+0 à 100
+Conducción - Tipo
+Variación de la velocidad
+Dirección de velocidad variable
+Aceleración brusca
+De 0 a 250 km/h/s
+Frenado brusco
+Guiñada lateral - Velocidad mínima
+De 0 a 250 km/h
+Desvío lateral - Ángulo
+Acelerómetro Dirección
+0,1g 0 a 10000
+Giro brusco a la derecha
+Giro brusco a la izquierda
+Identificación del conductor
+Sensor de lluvia
+Establecer el código de país
+Código de país del móvil
+Código de red móvil
+0 ó 1 a 180 segundos
+Configuración LBS
+Copia de seguridad de host
+Puerto de reserva
+Tensión de desconexión
+Desconexión
+Alta tensión/ Encendido
+Alta tensión/ Apagado
+Baja tensión/ Encendido
+Baja tensión/ Apagado
+Hora de generar la alarma
+Límite de alarma
+De 20 a 150 km/h
+Configuración del temporizador
+Desconectar SENALM
+Encender SENALM
+Desconectar DEFMODE
+Conectar DEFMODE
+Modo normal
+0 a 2880 segundos
+Alerta de entrada
+Aviso de salida
+Acción al abandonar la zona
+Manténgase activo
+Retraso de la acción de salida
+30 a 65500
+Introduzca el tipo
+Integración de claves copiada correctamente
+Gestión de vehículos
+Lista de usuarios
+Clave de copia Integración
+Utilice los caracteres especiales ',' ';' para separar los correos electrónicos
+Actualización de nuevas posiciones con datos LBS cuando el GPS no es válido
+Actualiza la Última Posición con datos LBS cuando no hay avistamiento GPS y Encendido Apagado
+GESTIÓN
+Copiado correctamente
+Por favor, añada un valor al campo cuentakilómetros
+Por favor, añada un valor en el campo Horómetro
+Zona circular entablada
+Se ha producido un error al intentar introducir los permisos para este perfil.
+Permisos introducidos correctamente
+Acciones - Ejecutar sólo en modo online
+Porcentaje
+Seleccione un vehículo
+Exportar datos GRID
+Buscar en
+Filtro limpio
+Dejar de seguir
+Detener pantalla
+Puestos y eventos
+Sólo eventos
+Sólo puestos
+GPS Válido/Inválido
+Sólo GPS fijo
+Válido sólo para GPS
+Parada con el encendido desconectado
+Manipulación Ocurrencia
+Cliente activo
+Equipos nunca comunicados
+Ubicación
+Última dirección
+Rastreador
+Última
+Introduzca el nombre del Área
+Introduzca un número de serie
+Por favor, introduzca los campos correctamente
+Introduzca un tratamiento
+0 a 255 segundos
+9 a 30 mv
+Gestión
+Alcance del acelerómetro
+Duración del movimiento
+Información de la estación principal
+Información de la estación vecina
+Tensión de alimentación externa
+Versión del firmware
+Información sobre Bluetooth
+Información Wifi
+Información GPIO
+Información del sensor
+Información sobre la batería
+Información sobre el dispositivo
+Información auxiliar
+Máscara de acelerómetro
+Configuración de Power Delivery
+Configuración de vibración
+Duración de la vibración
+Ajuste de los límites de vibración
+Tiempo de vibración continua
+Tiempo continuo sin vibraciones
+Ajuste de los límites de tiempo de vibración
+Seleccione una fecha
+GSM Primero (Pero ambos activados)
+Kilometraje inicial
+0 a 4294967295 Km
+Información sobre la antena
+Kilometraje
+Hora en que se generó la posición
+Nombre del dispositivo
+Máscara de informe de posición
+GPS siempre activado
+GTFRI, GTGEO y GTSPD Suspendidos
+GTFRI liberado y el resto de informes suspendidos
+Paquetes de alarma de encendido
+Paquetes de posición con campo de encendido
+Analógico
+Modo pin
+Activo led
+Cuando se enciende el aparato, los LED funcionan durante 30 minutos y luego se apagan.
+Led de encendido y gps encendido según configuración
+Intervalo entre
+30 a 86400 segundos
+Supresión de eco
+Cancelación y supresión de ecos
+Cancelar y forzar la supresión de eco
+Modo de carga de la batería interna
+Cuando haya una fuente de alimentación principal, la batería interna se cargará según sea necesario
+Cuando haya una fuente de alimentación principal, la batería sólo se cargará cuando se conecte el encendido.
+Máscara de evento
+función agps
+Permitir la información de la antena después de un fallo y recoger la posición GPS
+Informe +RESP:GTGSM después de cada conexión con éxito al GPS
+Informe +RESP:GTGSM independientemente de si obtiene un puesto de GP o no
+Máscara de información de la antena
+Tiempo sin conexión GPS
+De 0 a 30 minutos
+Modo de funcionamiento del GPS
+Sistemas de posicionamiento GPS y GLONASS
+1 a 9
+Activar la posición 15 segundos antes de la colisión y 15 segundos después de la colisión
+Activar el informe de aceleración
+Informar sobre el GPS
+0 a 3
+Estados de conmutación
+Fecha de inicio
+Fecha final
+HISTORIAS
+OPERACIONES
+La hora de la fecha inicial es mayor que la hora de la fecha final.
+Contactos de vehículos
+Contactos de clientes
+No hay datos de servicio para este Cliente y/o Vehículo
+Medidas adoptadas en caso de incumplimiento
+Persistente
+Véase Ocurrencia persistente
+Realmente quieres limpiar Ocurrencia Persistente
+Ocurrencia clara y persistente
+Tratamientos anteriores
+Historial de incidencias persistentes
+Entradas / Salidas
+Salidas
+Tratamientos
+Mapa
+Véase
+Ocurrencia no finalizada
+Minimizar mapa
+Mostrar mapa
+Minimizar el listado
+Mostrar listado
+Panel fijo
+Distancia total
+Cobertura GSM
+Velocidad media
+Velocidad máxima
+Grupo de conductores
+Añadir grupo de conductores
+Cambiar el grupo de controladores
+Se ha producido un error al intentar insertar este grupo de controladores.
+Se ha producido un error al introducir Driver para Grupo
+Se ha producido un error al eliminar el controlador de grupo
+MOTORISTAS
+Detección de colisiones
+Periodo de muestreo
+0 a 12
+Modo de detección de encendido
+El estado móvil simulará la ignición
+Encendido virtual por tensión
+Encendido virtual mediante acelerómetro
+Tiempo de rebote
+0 a 20
+Duración
+Modo de validez
+Última posición
+Comprobar si se cumple la condición de muestreo
+Comprobar cada 2 segundos durante el muestreo
+Incluir la posición en tiempo real en el informe, después de que el gps se haya bloqueado
+Incluir la última posición conocida con gps fix
+Estado de activación de onda gradual-progresiva
+De 0 a 120 minutos
+Largo tiempo de funcionamiento
+Informe
+Reiniciar periódicamente según el intervalo y la programación configurados.
+Reinicia en cuanto conectes el encendido
+Frecuencia de encendido
+0 a 120
+Intervalo de reinicio
+De 1 a 30 días
+Programa de reinicio
+Informe
+No informar
+Informe antes de reiniciar
+Puerto utilizado para el reinicio manual
+Tiempo sin señal GSM hasta reinicio
+Tiempo sin registro en la red GPRS hasta el reinicio
+Tiempo de espera al intentar comunicarse hasta el reinicio
+0 a 1440 minutos
+Enviar posición según intervalo de tiempo
+Enviar posición en función de la distancia
+Enviar posición según kilometraje
+Enviar posición si el intervalo es mayor que el establecido y el kilometraje es mayor que el establecido
+Enviar posición en función de cuál se satisface primero entre el kilometraje y el intervalo
+Descarte no fijado
+Periodo de funcionamiento
+Activa el campo <sensor digital de combustible> en +RESP:GTERI
+Para activar el campo <1-wire data> en +RESP:GTERI
+Para activar el campo <Fecha CAN> en +RESP:GTERI
+Para activar el campo <porcentaje> en +RESP:GTERI
+Para activar el campo <volumen> en +RESP:GTERI
+Para activar el campo <Datos accesorios RF433> en +RESP:GTERI
+Para activar el campo <temperatura del combustible> en +RESP:GTERI
+Hora de inicio
+Hora de finalización
+Intervalo de actualización de la posición
+Intervalo para enviar la posición
+Distancia a la posición de envío
+Kilometraje para enviar posición
+Ángulo para enviar posición
+Intervalo de posición en modo de ahorro de energía
+1 a 86400 segundos
+Sensibilidad a la velocidad
+Tiempo acumulado en movimiento
+Propiedad de tiempo acumulado
+Hora GPS fija incorrecta
+De 5 a 50 km/h
+De 10 a 100 segundos
+De 10 a 250 segundos
+5 a 1800 segundos
+Detección de frenazos y aceleraciones bruscas mediante GNSS
+Detección de curvas cerradas, frenazos y aceleraciones bruscas mediante el sensor de movimiento
+Detecta cualquier comportamiento repentino mediante GNSS o sensor de movimiento
+Detecta comportamientos bruscos utilizando conjuntamente el GNSS y el sensor de movimiento
+3 a 5
+Duración del comportamiento
+Alta velocidad
+Sensibilidad al frenazo brusco a alta velocidad
+Sensibilidad a la aceleración brusca a alta velocidad
+Velocidad media
+Sensibilidad al frenado brusco a velocidad media
+Sensibilidad a la aceleración brusca a velocidad media
+Sensibilidad al frenazo brusco a baja velocidad
+Sensibilidad a la aceleración brusca a baja velocidad
+Sensibilidad a los frenazos bruscos en curva
+Duración del frenado en curva
+Sensibilidad a la aceleración brusca
+Duración de la aceleración
+100 a 400
+60 a 100
+10 a 250
+5 a 100
++RESP:GTJDR después de la interferencia
++RESP:GTJDS después de entrar o salir del bloqueo
+Sensibilidad de la señal
+Sensibilidad de la antena
+Sensibilidad al entrar en estado de interferencia
+Sensibilidad a la salida en estado de interferencia
+0 à 31
+0 à 99
+Inicio manual, a través de un dispositivo externo conectado a un puerto digital especificado, el conductor controla manualmente el inicio del periodo.
+Inicio manual, a través de un dispositivo conectado a un puerto digital especificado el conductor tiene el control total de la privacidad, el dispositivo automáticamente no comprueba la información fuera del tiempo configurado.
+Modo automático
+Domingo
+Lunes
+Martes
+Miércoles
+Jueves
+Viernes
+Sábado
+Conservar el estado lógico especial del dispositivo según los valores de máscara
+Restablecer todos los valores lógicos que figuran en la máscara después de recibir el comando
+Estado GEO
+Estado de la antena GNSS
+Información sobre la última posición conocida
+Estado de encendido
+Estado de la forma de onda 1
+Estado del puerto digital
+Estado del DOCUP
+Estado del SSR
+Estado de la alimentación principal
+Estatuto de OPE
+Leyenda del mapa
+No se ha encontrado ninguna agrupación
+Realmente quieres quitar el vehículo
+Indicar que una Ocurrencia es Persistente permite acceder fácilmente a los datos de esa Ocurrencia aunque ya haya sido tratada y/o finalizada.
+Información general
+Especificación
+Atención. El ajuste del conductor sólo tiene efecto cuando el encendido está desconectado.
+Sin tratamiento previo
+¿Realmente desea eliminar los controladores seleccionados?
+Configurar grupo de controladores
+Para crear Vehículos
+Claro
+Compruebe que la tecnología se ha seleccionado correctamente
+¿De verdad quieres enviar al Grupo
+Fecha Configuración
+¿Realmente desea eliminar la Operación
+Filtrar por dirección
+Vehículos cercanos
+Radio (Km)
+Columnas
+Información del cuadro de mandos
+Vehículos con el encendido conectado
+Vehículos con el encendido desconectado
+Vehículos no conectados durante menos de 1 hora
+Vehículos no conectados durante menos de 6 horas
+Vehículos no conectados durante menos de 12 horas
+Vehículos no conectados durante menos de 24 horas
+Vehículos no conectados durante más de 24 horas
+Vehículos en estado normal
+Vehículos en estado de alerta
+Vehículos en estado de emergencia
+Vehículos con batería inferior al 20
+Vehículos con batería inferior al 50
+Vehículos con batería superior al 50
+Sucesos de muy alta prioridad
+Sucesos de alta prioridad
+Ocurrencias de prioridad regular
+Sucesos de baja prioridad
+Ocurrencias de muy baja prioridad
+Haga clic en una pieza de
+Gráfico
+para ver los artículos correspondientes
+Simplificado
+¿Qué quieres hacer?
+Inscripción completa
+Registro simplificado
+Supervisión + Comandos
+Vehículo
+Este nombre de usuario ya está en uso, por favor utilice otro nombre de usuario.
+Parámetros adicionales
+Retraso de alerta de límite de velocidad
+Límite de velocidad bajo la lluvia
+Retraso de la alerta de límite de velocidad en caso de lluvia
+Tipo de servidor
+Tipo de servidor de copia de seguridad
+No ACK
+ACK Todo menos KeepAlive
+ACK Todos menos STT y KeepAlive
+ACK Sólo emergencia
+Tipo de protocolo
+Activar salida SAT
+Sin salida
+Hora de activar Sat
+Activar SAT RS232
+Límite de conexión a la red GSM
+0 o de 5 a 60 minutos
+Tiempo para validar la ausencia de movimiento
+0 o de 15 a 60 minutos
+Intervalo de reintentos detenido
+0 o de 30 a 720 minutos
+Intervalo de reintentos en movimiento
+0 ó 100 a 60000 metros
+Suntech - Parámetros de apagado de la batería
+Apagado cuando la batería está baja
+Tensión de desconexión
+De 3,4 a 3,8 voltios
+Código cliente
+Análisis de conductores
+Función de análisis de controladores
+Velocidad estándar
+Curva pronunciada
+Activar zumbador
+Hora de alerta sonora
+Lista de ERB
+ID del dispositivo
+Tiempo de espera del comando en el dispositivo
+0 a 14440 minutos
+Tipo de comando de dispositivo
+Permitir la colaboración en red
+Desactivar la red de colaboración
+Dispositivo Código cliente
+Canal de RF del dispositivo
+Parámetros ERB
+Hora de enviar órdenes
+0 a 100 segundos
+Tiempo para detectar una emergencia
+Periodo de recepción de comandos
+Período de recepción del mensaje
+0 ó 25 a 1500 (100 ms)
+0 o 30 a 1500 (100ms)
+Pasar al modo normal en "Modo Aparcamiento
+Parámetros del evento
+No utilizar Ignición
+Utilizar línea de encendido
+Tiempo para entrar en modo reposo
+0 a 999 segundos
+Tiempo para entrar en modo activo
+Tipo de entrada
+Borde de descenso
+Borde de escalada
+Flanco ascendente y descendente
+Botón antirrobo
+Sensor de puerta
+Línea de encendido
+Desactivar el inmovilizador si está activado por el detector de interferencias
+Tiempo de lectura de la entrada
+0 a 9999 milisegundos
+Entradas y salidas para uso del médico de cabecera
+Inmovilizador
+Inmovilizador automático
+Lógica de activación de salida
+Abrir
+Tipo de salida
+Número de impulsos de salida
+Salida ON Tiempo de impulso
+0 à 9999
+Número par
+Salida OFF Tiempo de impulso
+Velocidad de transmisión en serie
+No utilice Serial
+Sensor de lluvia (TERRA)
+Sensor de lluvia (ABIERTO)
+Sensor de lluvia (PULSE)
+60 a 99999 segundos
+Enviar pausa de emergencia
+ALT con alerta de emergencia
+STT en modo de emergencia
+Sólo llamadas de emergencia
+Enviar sólo la posición GNSS al servidor
+Envía primero la posición GNSS al servidor y luego realiza la llamada de emergencia
+Enviar la posición GNSS a través de SMs y luego hacer la llamada de emergencia
+Identificación digital de la puerta
+Tipo de posición GNSS
+Intenta enviar la posición actual en cuanto se active el evento de emergencia
+Envíe sólo la última ubicación conocida en cuanto se active el evento de emergencia
+Envíe la última posición conocida en cuanto se active el evento de emergencia y, a continuación, intente enviar la posición actual
+Sólo números del 0 al 9
+Configuración de emergencia
+0 ó 1 a 10
+0 ó 1 a 7
+Desactivar trampa de velocidad
+Envía una alarma si la velocidad está dentro del intervalo estipulado
+Envía una alarma si la velocidad sale o entra en el intervalo estipulado
+Envía la alarma sólo una vez si el coche entra o sale del carril estipulado
+Envía la alarma si la velocidad entra o sale del rango estipulado, pero el servidor sólo recibirá el mensaje saliente tras confirmar la recepción del mensaje entrante.
+Velocidad mínima
+Fecha de caducidad
+De 0 a 400 km/h
+30 a 3600 segundos
+Ajuste de la velocidad
+Modo de parada
+TCP con preferencia de conexión corta
+TCP con conexión corta forzada
+TCP con conexión larga
+Modo UDP
+Modo SMS forzado
+Modo UDP con puerto fijo
+Servidor de copia de seguridad con conexión TCP larga
+Baja velocidad, enviará mensajes en memoria después de los mensajes en tiempo real
+Alta prioridad, enviará los mensajes en memoria antes que los mensajes en tiempo real, a excepción de los mensajes de emergencia.
+Modo de comunicación
+Modo búfer
+Servidor principal
+Formato del protocolo
+Intervalo de mantenimiento de vida
+0 o de 5 a 360 minutos
+El servidor no responde a SACK
+El servidor responde con SACK tras recibir el mensaje del dispositivo
+El servidor responde con SACK después de recibir el mensaje, pero el dispositivo no comprueba la serie
+El dispositivo enviará la confirmación ack utilizando el modo especificado en Modo de comunicación.
+El dispositivo enviará la confirmación de acuse de recibo por SMS al número utilizado para enviar los comandos
+Límite de 60 caracteres ('0' - '9' 'a' - 'z' 'A' - 'Z')
+Minuto
+0 a 59
+Alarma de movimiento con el encendido desconectado
+Tiempo con el motor apagado para considerar la alarma
+Retardo de falsa alarma
+Gama de posiciones de alerta
+Duración del movimiento para considerar la alarma
+Configurar una manipulación inadecuada
+De 1 a 15 minutos
+De 0 a 10 minutos
+Condiciones de envío
+Medición del movimiento asistida por GPS
+Control de la conducción peligrosa
+Detección de interferencias
+Configuración fuera del horario laboral
+Dispositivo Configuración especial de conservación del estado lógico
+Introduzca un Iccid
+Iccid enlazado correctamente
+Se ha producido un error al intentar insertar este Iccid
+Pausa de emergencia
+Parámetros de funcionamiento
+Botón
+Emergencia por movimiento
+Parámetros de configuración GPS
+Tipo de envío
+Parámetros GSM
+Bloqueo de SMS
+Teléfonos móviles autorizados a recibir SMS
+Bloqueo de llamadas de voz
+Teléfonos móviles autorizados a recibir llamadas de voz
+Destino Teléfonos móviles Voz
+Parámetros de telemetría
+Evento de viaje
+Control de salida
+IButton para añadir controlador
+IBotón para quitar el controlador
+Hexa 14 dígitos
+Alerta meteorológica en movimiento
+0 à 9999999
+Alerta por heladas
+Cuentakilómetros de impulsos
+A o de 1 a 9999999
+Alcance económico máximo
+0 à 99999
+Activar cuentakilómetros
+Pulso RPM
+Alcance económico mínimo
+Comprobación del punto neutro
+Hora del punto neutro
+0 à 999
+RPM Punto neutro
+0 a 65535 Minutos
+Intervalo de envío de emergencia y parada
+Intervalo de envío de emergencia y movimiento
+Alertas
+Intentos de envío a Lora
+De 1 a 250 minutos
+De 0 a 60 minutos
+De 1 a 223 minutos
+0 a 223 minutos
+Dirección del dispositivo
+Clave de sesión de red
+Clave de sesión de la aplicación
+Parámetros de tensión
+Tensión que decide la tensión
+Tensión de protección 12V
+Tensión de protección 24V
+Alto encendido virtual
+Encendido virtual bajo
+M.Parámetros de los sensores
+Tiempo para detectar el choque
+0 a 21600 segundos
+Sensibilidad al movimiento
+Sensibilidad a los golpes
+Sensibilidad a las colisiones
+Sensibilidad al movimiento
+Tiempo de detección del movimiento
+De 3 a 999 segundos
+Porcentaje del módulo en movimiento
+Sensibilidad a la ausencia de movimiento
+Tiempo para detectar la ausencia de movimiento
+Porcentaje de módulo sin movimiento
+Emergencia permanente (ST410M)
+Sólo ST400 y ST440
+Sólo ST410G
+Datos de temperatura
+Sólo ST410M
+Nuevos parámetros
+Posición Ángulo de envío
+Orden de envío de los mensajes
+Información adicional en los mensajes de posición
+Intervalo para activar el botón antirrobo
+Intervalo para generar el botón antirrobo
+De 10 a 10000 segundos
+0 a 10000 segundos
+Alerta de inmovilizador
+Alerta por zumbador
+Distancia de detección de interferencias
+0 a 60000 metros
+Tiempo para detectar el bloqueador
+Emergencia con inmovilizador
+Alerta con salida 1
+Emergencia con salida 1
+Emergencia permanente
+Información adicional
+Configuración de la red
+Autenticación
+Automático
+Comandos GPRS RX
+Parámetros opcionales
+Acción de desconexión de la batería principal
+Tiempo para iniciar EMG tras detectar Jammer
+0 ó 1 a 60 minutos
+Información LBS
+Parámetros de viaje
+Velocidad que identifica a un vehículo parado
+OBD Travel Event
+Enviar velocidad OBD
+Enviar OBD RPM
+Enviar temperatura de refrigeración OBD
+Enviar contador DTC
+Enviar alertas de viaje DAB
+Límite de RPM para generar Alertas DAB
+Periodo de tiempo para generar Alertas DAB
+De 2 a 999 segundos
+Límite de RPM para generar alertas OBD de alta velocidad y baja RPM
+Límite de velocidad para generar alertas OBD de alta velocidad y bajas RPM
+Límite de tiempo para generar alertas OBD de alta velocidad y bajas RPM
+Límite de RPM para generar alertas OBD de baja velocidad y altas RPM
+Límite de velocidad para la generación de OBD de baja velocidad y altas RPM
+Límite de tiempo para generar alertas OBD de baja velocidad y altas RPM
+0 a 12000 RPM
+De 0 a 180 km/h
+Lista de dispositivos de presencia
+Tipo de presencia
+Tipo de presencia Función
+Presencia Función Acción
+Ninguna acción
+Plazo para recibir el PMR
+Incluir datos GPS en el PMR
+Canal RF de presencia
+Parámetros RF
+Protocolo RF 900
+Canal RF
+0 ó 25 a 65535 100ms
+0 a 65535 100ms
+Número de transmisiones de emergencia
+0 ó 12 - 65535 100ms
+Detección de movimiento
+Sensibilidad a la parada
+Tiempo de detección Detenido
+Hora de entrar en Sueño
+0 a 86400 segundos
+0 a 9999 segundos
+Orden de envío de los mensajes en memoria
+Enviar información del móvil LBS
+Intervalo de envío OBD detenido
+Intervalo de envío DAB en movimiento
+Parámetros del servicio
+Zona de seguridad
+De 0 a 300 km/h
+Configuración del sueño
+Tipo de conexión
+Mantener la conexión GPRS
+Cerrar la conexión GPRS
+Envío de posiciones agrupadas
+Alarma de batería principal
+Fallo de la batería interna
+Valla electrónica
+Utilizar TA Call
+Id de 9 dígitos
+Información adicional
+Alerta de sensor magnético
+Consumo de energía ultrabajo
+Alarma de antena GPS
+Llamadas de VOZ
+Registro de comunicación serie
+Parámetros de alerta de temperatura
+Alerta de temperatura
+De 1 a 600 minutos
+Hora de decidir Alerta
+Límite de alta temperatura
+Límite de baja temperatura
+Parámetros temporales (ISCA)
+0 o de 200 a 60000 milisegundos
+0 a 500 minutos * Sólo ST410G
+Solicitar parámetros GpsOff
+Petición ProtType Parámetros
+0 a 60000 milisegundos
+El Iccid introducido no puede modificarse, ya que procede automáticamente del dispositivo.
+Se ha producido un error al intentar eliminar Iccid del dispositivo anterior.
+Seleccionar una tarjeta SIM ya registrada
+Registrar una nueva tarjeta SIM
+Parámetros de radiofrecuencia
+Límite de vibración
+De 5 a 300 segundos
+Variación de tensión
+0,1v de 1 a 10
+De 1 a 10 Km/h
+Configuración del filtro de efecto estrella
+Sólo RF activado
+Sólo botón
+Sólo Jammer
+Sin acelerómetro y sin suspensión
+Sólo acelerómetro
+Sólo dormir
+Sueño y acelerómetro
+60 a 86400 segundos
+500 a 86400 segundos
+Distancia para mantener el estado de Movimiento
+Análisis de los 2 últimos minutos
+50 a 65000 metros
+Distancia de entrada y estado del movimiento
+Precisión de posición en movimiento
+Precisión de posición en reposo
+Velocidad de desplazamiento
+15 a 255 segundos
+Posición angular
+15 a 180 grados
+Precisión para GPS fijos
+SGBRAS - RFID y salidas (Grupo 1)
+SGBRAS - Permiso de escritura de tarjetas (Grupo 2)
+SGBRAS - Firmware (Grupo 3)
+SGBRAS - Tarjetas de permiso para escribir (Grupo 6)
+Desactivar RFID
+Activar el desbloqueo con una tarjeta específica
+Activar el desbloqueo con cualquier tarjeta
+Desactivar el bloqueo
+Permiso para quemar tarjetas
+Bloqueo de grabación de tarjeta
+SÓLO NÚMEROS
+Lector de controladores RFID
+Lector RFID para pasajeros
+Lector RFID para conductor y pasajero
+Tiempo de actualización de la conexión
+Hora de envío de WakeUp
+Activar Modo Apagado + Activar Sirena de Prealarma
+Activar Modo Apagado + Desactivar Sirena de Prealarma
+Desactivar Modo Apagado + Activar Sirena de Prealarma
+Desactivar Modo Apagado + Desactivar Sirena de Prealarma
+Introduzca el PIN de acceso que ha recibido en su correo electrónico
+Sirena antirrobo por defecto
+Bloq Pulsing por defecto
+Tiempo de impulso ON
+Pulso OFF Tiempo de bloqueo
+Configuración horaria
+Envío del registro de tiempo
+0 o 1 a 65534 o 65535 Segundos
+Log Tiempo normal
+Registro del tiempo siniestro
+Tiempo máximo sin mensaje
+Hora de dormir
+Mensaje de Time Life
+Caducidad de la solicitud
+Tiempo sin GPRS
+Hora de prealarma
+Velocidad de referencia
+Hora de acelerar
+KM inicial
+1 a 4294967295 Km
+Km Tab Estado
+Sin respuesta del Centro tras enviar un mensaje
+Esperar una respuesta del Centro tras enviar un mensaje
+Configuración de entrada
+Generar mensaje
+No genera ningún mensaje
+Genera un mensaje cuando se infringe sólo a través de GPRS
+Genera un mensaje cuando se viola y se desvía sólo a través de GPRS
+Genera un mensaje cuando se infringe
+Genera un mensaje cuando se viola y no se viola
+Tipo de posicionamiento
+Tiempo normal
+Tiempo siniestro
+Salidas activadas
+Estado violado
+Sensor de la puerta del conductor
+Sensor de la puerta del pasajero
+Sensor de la puerta del maletero
+Bloqueo de 5ª rueda
+Activación del bloqueo del maletero
+Sensor de compromiso
+Violación de la batería
+Sensor genérico
+Movimiento inadecuado
+Despertar Periodo GPS
+Hora GPS activada
+Tensión Vehículo Apagado 12v
+Tensión del vehículo conectado 12v
+Tensión Vehículo Apagado 24v
+Tensión Vehículo En 24v
+0,0 a 65,0 voltios
+0 ó 1 a 180 grados
+Configuración del intervalo de posición con el encendido desconectado
+Línea de encendido o acelerómetro
+Línea de encendido o alimentación
+Acelerómetro o Potencia
+Línea de encendido, acelerómetro o fuente de alimentación
+Línea de encendido o RPM
+Línea de encendido, potencia o RPM
+Acelerómetro, Potencia o RPM
+Línea de encendido, acelerómetro o RPM
+Acelerómetro o RPM
+Potencia o RPM
+Configuración del intervalo de posición con el encendido conectado
+Configuración de la detección de interferencias
+Prioridad baja
+Alta prioridad
+0 ó 1 a 260 Km/h
+0 à 1
+0 a 4294967 Km
+Batería interna activa
+Comienza la recogida en cuanto se enciende el aparato
+Iniciar la recogida en cuanto se conecta el encendido
+Inicio del muestreo
+Muestreo previo a la colisión
+Muestreo posterior a la colisión
+1 à 1500
+Para activar los campos RAT y banda en el paquete +RESP:GTERI
+Descartar evento desconocido
+Duración del frenado
+Desactivar +RESP:GTHBE, informar sólo +RESP:GTHBM
+Activar +RESP:GTHBE y +RESP:GTHBM
+Activar +RESP:GTHBE y desactivar +RESP:GTHBM
+0 à 130
+0 à 6
+No desconecte la frecuencia de radiofrecuencia
+Desactivar frecuencia RF
+0 o de 50 a 65535 metros
+Distancia de desplazamiento
+Tiempo de conexión abierta
+0 o de 10 a 600 segundos
+GPS Si es necesario
+No apagues el chip GPS
+Apague el chip GPS cada vez que recupere información del GPS.
+No apague el chip GPS si el encendido está conectado o si el vehículo está en movimiento.
+Retraso en la corrección GPS
+De 5 a 60 segundos
+Altitud
+Activar desde 433
+Tasa RF 433
+Nuevo
+Velocidad de transmisión Modo de funcionamiento
+0 ó 1 a 60 segundos (x3)
+Velocidad de transmisión en modo de emergencia
+0 o de 1 a 255 segundos
+Temperatura interior
+Enviar con encendido ON
+Enviar con el encendido desconectado
+Enviar con eventos
+BSLE (Elemento de Localización de la Estación Base)
+Información GPS
+Sensores digitales de estado
+Salidas de estado
+Cuentakilómetros GPS
+Cuentakilómetros CAN
+Nivel de potencia externa
+Configuración del modo de bloqueo
+Sin bloqueo
+Bloqueo progresivo
+Bloqueo sólo con el encendido desconectado
+Bloqueo sólo con el encendido desconectado y una señal GPS válida
+10 a 100 nudos
+Configuración del modo de emergencia
+Razón
+Configuración GPRS
+Hexadecimal - 2 dígitos
+Hexadecimal - 8 dígitos
+Subíndice
+CryptoKey
+GPS activado
+Ajustes de intervalo de envío con el encendido en OFF
+De 5 a 65535 minutos
+Ajustes de cambio de curso
+De 1 a 180 grados
+Ajustes de intervalo de envío con el encendido en ON
+Intervalo de encendido
+De 5 a 3600 segundos
+Velocidad máxima
+Histéresis
+0 à 100%
+Rebote
+Configuración del intervalo de envío
+Rango normal
+De 10 a 720 minutos
+Configuración del intervalo de envío sin batería externa
+Regístrese en
+No se ha encontrado ningún chip con el ICCID
+EL ICCID
+Información sobre el equipo
+Información sobre el chip permite ver y copiar los datos del chip
+Puede registrar un nuevo chip y vincularlo directamente a este dispositivo aquí.
+Puede seleccionar un chip ya registrado y vincularlo a este dispositivo.
+Este ICCID se ha actualizado automáticamente a través de la comunicación con el Equipo.
+Desactivar la unidad de control de energía externa con sensor de movimiento integrado
+Habilitar unidad de control de potencia externa con sensor de movimiento integrado
+Cada vez que se enciende el aparato o el parámetro se pone a 0, el LED GPS se enciende durante 150 segundos y luego se apaga.
+Todos los LED funcionan con normalidad
+Todos los LED funcionan durante un tiempo después de encenderse, el LED de encendido parpadea cuando se apaga y funciona normalmente cuando se introduce un cargador.
+Caducidad activada
+Caducidad
+El aparato se apagará
+El dispositivo cambiará a la batería interna y se reiniciará
+Conexión de la batería
+Desactiva la entrada digital
+Habilita la entrada digital. si el estado de la entrada cambia. el dispositivo comunicará el mensaje +RESP:GTDIS al backend para indicar su último estado.
+Si el estado de la entrada cambia a 0, el dispositivo activa el modo de reposo. si el estado de la entrada cambia a 1, el dispositivo activa el modo de reposo.
+Si el estado de la entrada cambia a 0, se activa el evento SOS
+Unidad
+Desactivado. Si está desactivado, el dispositivo envía varios informes almacenados en memoria intermedia, uno a uno
+Activado. Si está habilitado, el dispositivo envía varios informes almacenados en búfer en un solo paquete.
+Envío de varios paquetes
+Alcance de la búsqueda DSN
+Enviar la posición según el parámetro de intervalo de envío
+Enviar la posición según el parámetro de distancia
+Envía la posición según el parámetro de kilometraje
+Enviar la posición teniendo en cuenta tanto el intervalo de envío como el kilometraje, la posición se enviará en función de que se cumplan ambos parámetros
+Envíe la posición teniendo en cuenta el intervalo de envío o el kilometraje, la posición se enviará en función del parámetro que se cumpla primero
+Intervalo de comprobación del encendido
+Intervalo de envío del encendido
+Desactiva la función de detección de movimiento
+Activar la función de detección de movimiento
+1 a 999
+1 a 9999
+1 a 5
+Número de expedición
+Desactivar esta función
+Obtener una localización fija y luego enviar GTMSA con la posición actual al backend y un sms con un mapa de google lint a los números de acuerdo con la configuración AT+GTGLM si se detecta un accidente de caída.
+Enviar última posición
+Alarma superada
+5 a 10
+Informa del mensaje de alarma +RESP:GTTEM cuando la temperatura actual es inferior a la temperatura especificada por la temperatura mínima.
+Informa del mensaje de alarma +RESP:GTTEM cuando la temperatura actual está dentro del rango de temperatura.
+Informa del mensaje de alarma +RESP:GTTEM cuando la temperatura actual es superior a la temperatura especificada por la temperatura máxima.
+Informa del mensaje de alarma +RESP:GTTEM cuando la temperatura actual está dentro o fuera de rango. El mensaje de alarma de temperatura sólo se enviará una vez
+-20 a 60 Cº
+Vibración del motor
+Suspende el informe FRI cuando no detecta ningún movimiento
+Notifica GTNMR al backend cuando no detecta movimiento.
+Informa de GTNMR al backend cuando detecta movimiento
+Cambia la corrección FRI y el intervalo de envío por la corrección de reposo y el intervalo de envío de reposo al detectar la ausencia de movimiento.
+Duración sin movimiento
+1 a 50
+Límite de movimiento
+2 a 9
+Intervalo de corrección en reposo
+Enviar intervalo en reposo
+Límite de descanso PM
+Límite de movimientos PM
+Informe URC
+No envía el estado del sensor a la UART
+Envía un URC a la UART para indicar el cambio de estado
+Movimiento por mando
+No cambia el estado de movimiento después de la orden
+Obliga al dispositivo a entrar en estado de movimiento tras recibir una orden
+Modo informe
+Informa de la última posición fija
+Informar de la posición actual
+Notificar la última posición fija y encender inmediatamente el GPS para obtener la posición actual y notificar de nuevo la información
+Modo botón de encendido
+Al pulsar el botón de encendido no se apaga el dispositivo
+Pulsando el botón de encendido se apagará el aparato
+Pulsa prolongadamente el botón de encendido para activar el modo SOS
+Totalmente conectado
+No encienda completamente el terminal
+Encienda completamente el terminal. El terminal funcionará normalmente cuando se encienda pulsando prolongadamente el botón de encendido.
+Modo de botón de función
+Ignora el funcionamiento de los botones de función
+Modo SOS.
+Modo de localización
+Modo mixto
+Indicación del botón de encendido
+Desactiva el motor cuando se pulsa el botón de encendido/apagado durante un tiempo prolongado.
+Permite que el motor vibre cuando se pulsa el botón de encendido durante demasiado tiempo
+Visualización del botón de función
+Desactiva el motor cuando se pulsa el botón de función durante un tiempo prolongado.
+Permite que el motor vibre cuando se pulsa el botón de función durante un tiempo prolongado
+Modo de informe SOS
+Informa sólo de la última localización GPS inmediatamente después de que se active el evento SOS
+Intenta informar de la ubicación GPS actual después de que se active el evento SOS
+Informa de la última ubicación GPS inmediatamente después de que se active el evento SOS y, a continuación, intenta obtener la ubicación GPS actual para informar a
+Primer tiempo de activación
+De 1 a 99 segundos
+Segundo tiempo de activación
+De 2 a 99 segundos
+Primer evento desencadenante
+Enviar un mensaje SOS al servidor backend
+Enviar un +RESP:GTLOC al servidor backedn
+Segundo evento desencadenante
+Enviar un mensaje SOS al backend
+Enviar +RESP:GTLOC al backend
+Configuración del botón de servicio
+Configuración del sensor de movimiento
+Configuración sin movimiento
+Sin vehículo
+Activar la vibración
+Conductor(es)
+Historia del equipo
+HISTORIA
+Fecha del enlace
+Fecha de cancelación
+Centros
+Reventa
+Contratos de servicios
+Plan de servicios
+Nombre y apellidos
+Utilizar puntos de referencia estándar
+Vincular nuevos usuarios al grupo predeterminado
+Operaciones de copia
+Crear perfil de administrador
+Crear usuario administrador
+Crear usuario de soporte SITALLCOM
+Contratos
+Necesita
+Cantidad
+Enmienda
+¿Realmente desea eliminar el/los Contrato/s de Servicio?
+Partes interesadas
+meses
+Por favor, rellene el campo correctamente.
+Gestión de incidencias
+Gestión de zonas
+El periodo de carencia debe ser inferior o igual a Duración
+Desencuadernación
+Historia del equipo
+No hay vehículo para este equipo
+Contrato de servicios
+Editar el contrato de servicios
+hasta
+Contrato(s) retirado(s) con éxito
+Registro Central
+Centro de Edición
+Central Activa
+En regla
+Control de existencias
+ASIGNAR
+Insertar producto
+Cambiar producto
+Posición Tiempo con el encendido conectado
+0 o de 10 a 3600 segundos
+Posición Tiempo con el encendido desconectado
+Configuración de la hora del latido
+Hora del latido
+Configuración del modo de ahorro de energía
+0 o de 5 a 90 grados
+Ajuste de la hora de entrada en el modo de ahorro de energía
+Tiempo para entrar en modo de ahorro de energía
+Ajuste de la hora del despertador
+Hora de despertarse
+Ajuste horario de emergencia
+Tiempo de emergencia
+10 a 3600 segundos
+De 60 a 220 km/h
+Intervalo de tiempo de aviso de velocidad excesiva
+Momento de considerar la velocidad máxima
+Configuración lingüística
+Idioma
+Chino
+Inglés
+Configuración del modo de funcionamiento
+Modo de funcionamiento
+Configuración del número de teléfono
+Número de teléfono
+Se ha producido un error al insertar este producto
+Producto registrado con éxito
+Producto cambiado con éxito
+Se ha producido un error al intentar cambiar este Producto
+Seleccione una empresa
+Producto asignado con éxito
+Se ha producido un error al asignar este Producto
+Introduzca una serie
+Asignar producto
+Asignado
+Fecha de asignación
+Unidad cuentakilómetros
+Introduzca el valor correcto
+Producto activo
+Número de satélites GPS
+Medios de comunicación
+Bloqueo inmediato
+Seleccione un artículo
+Gráfico de velocidad
+Base activada
+Informe sobre la base activada
+Variación
+Se ha producido un error al generar el archivo XLSX
+Hubo un error
+Indique correctamente el mes de referencia.
+Asignaciones anteriores
+Tipo de integración
+Código
+Enviar acceso por correo electrónico
+Normas de acceso
+Número de caracteres
+Introduzca el número de caracteres.
+Del primero al último
+Del último al primero
+Complete
+Personajes
+Normas de uso
+Reglas de contraseña
+Por defecto para el inicio de sesión
+Por defecto para el usuario
+Por defecto para Contraseña
+Se ha producido un error al intentar registrar Integración
+Compruebe el número de caracteres.
+Por favor, introduzca un token.
+Token copiado correctamente
+Registro Integración
+Editar integración
+Por favor, introduzca una contraseña.
+Por favor, introduzca un código.
+Razón
+Última modificación
+Permiso
+Tipo de empresa
+Gestión de los tipos de empresa
+Tipo(s) de empresa añadido(s) correctamente
+¿Realmente desea eliminar la(s) empresa(s) seleccionada(s)?
+Puesta en servicio
+Comisiones lanzadas con éxito
+¿De verdad quieres publicar comisiones antes de la fecha de
+Modo Relativo
+Gestores
+El equipo sigue vinculado a otro vehículo
+Ya se ha añadido el gestor
+Gestor(es) registrado(s) con éxito
+Se ha producido un error al intentar insertar esta regla
+Regla insertada correctamente
+Norma modificada con éxito
+Se ha producido un error al intentar cambiar esta regla
+Cada
+Rellene el asunto
+Rellene el campo Contenido del correo electrónico
+Normas de mantenimiento
+Se ha producido un error al intentar insertar este Programa de mantenimiento
+Programa de mantenimiento iniciado con éxito
+Se ha producido un error al intentar modificar este programa de mantenimiento.
+Programa de mantenimiento modificado con éxito
+Programa de mantenimiento
+Gestionar normas
+¿Realmente desea eliminar las Reglas seleccionadas?
+Reglas seleccionadas eliminadas correctamente.
+No ha sido posible eliminar las reglas seleccionadas
+No ha sido posible eliminar los vehículos seleccionados
+Vehículos retirados con éxito.
+REGLAS
+Se ha producido un error al intentar editar este registro del programa de mantenimiento.
+Programa de mantenimiento de registros editado con éxito
+Mantenimiento insertado con éxito
+Mantenimiento modificado con éxito
+Programa
+Tiempo estimado
+Próximo mantenimiento
+Programa de mantenimiento de troncos
+Inicio
+MANTENIMIENTO
+Mantenimiento de insertos
+Final
+Se ha producido un error al intentar registrar este mantenimiento
+La descarga comenzará en unos segundos.
+OK
+Múltiples
+Vista general del vehículo
+Insertar varios vehículos
+Resultado tras la inserción
+Utilizar un token para personalizar
+Los grupos son
+No registrado
+Los grupos no pueden repetirse
+Observaciones
+No válido
+Actual
+Un número de serie por línea
+Registrado con éxito
+Compruebe los números de serie
+Cámara
+Continúe en
+Usuario(s) eliminado(s) correctamente
+Sin leer
+La fecha límite debe ser posterior a hoy.
+Aviso registrado correctamente.
+Se ha producido un error al intentar insertar este aviso
+Notificación modificada con éxito.
+Se ha producido un error al intentar cambiar este aviso
+El plazo debe ser posterior a la fecha de presentación.
+Aviso enviado correctamente.
+Se ha producido un error al intentar enviar esta notificación.
+Aviso marcado como leído con éxito
+Se ha producido un error al intentar marcar este aviso como leído.
+Enviar aviso ahora
+Enviar notificación más tarde
+Rellene el campo Título
+¿De verdad quiere enviar este aviso?
+No apague nunca el chip GNSS
+Apague siempre el chip GNSS después de buscar información
+No apague el chip GNSS mientras esté en movimiento
+Mantenga el chip GNSS apagado en todo momento
+Máscara de información opcional
+Porcentaje de batería
+Estado de la radio RF
+Frecuencia del canal RF
+Datos de banda y RAT
+Modo de control RF
+No entre en modo de emergencia
+Active el modo de emergencia, cuando salga del estado de interferencia también saldrá del modo de emergencia.
+Suspender los informes de posición y geocerca cuando se detecta ausencia de movimiento
+Informar del paquete +RESP:GTNMR cuando no detecta movimiento.
+Informar del paquete +RESP:GTNMR cuando detecta movimiento.
+Inversión de los tiempos de conexión y desconexión del encendido cuando no se detecta movimiento.
+Sensibilidad al movimiento
+De 1 a 5 minutos
+1 a 88
+1 à 20
+3 a 32
+Canales 433.0 a 434.9
+Resistencia RF433
+Intervalo de radio
+Localización GNSS
+Localización por LBS
+Ajuste de la temperatura
+Desactivar
+Informar de la alarma cuando la temperatura es inferior a la temperatura mínima permitida
+Informar de la alarma GTTEM cuando la temperatura esté dentro del rango permitido
+Informar de la alarma cuando la temperatura sea superior a la máxima permitida
+Hora de salir del modo avión
+Advertencias
+Título
+Límite
+Contenido
+Destinatarios
+Envío
+Enviado
+Advertencia
+Remitente
+Mensaje
+Marcar como leído
+Copia
+Visualice
+Reproducir medios
+Medios en proceso
+Se ha producido un error al procesar los medios
+Cargar configuración
+Configuración de streaming
+Configuración del punto de acceso
+Inactivo
+Configuración Wifi
+Wifi conectado mientras ACC está encendido
+Wifi encendido todo el tiempo
+Borrar el registro de conexión wifi
+La ubicación GPS siempre se informa en la agenda mientras el encendido está activado
+El GPS sólo informa si la velocidad es superior a 3 km/h
+1 a 600 segundos
+El dispositivo cargará automáticamente los paquetes de localización en un intervalo predefinido después de entrar en el modo ACC OFF
+El dispositivo no cargará paquetes de localización después de entrar en el modo ACC OFF
+Ajuste de la resolución
+Ajuste del volumen
+Medio
+Forma
+Volumen
+Audio
+Cámara
+Cámara frontal
+Cámara interna
+Tailandés
+Árabe
+Inglés británico
+Ruso
+Portugués
+Español
+Indonesia
+Configuración de leds
+Configuración de la fatiga
+Momento en que se considera fatigado
+Gama de posiciones en estado de fatiga
+De 4 a 12 horas
+De 1 a 30 minutos
+Sos
+Vibración
+Aceleración repentina
+Frenado brusco
+Curva cerrada
+Velocidad excesiva
+Somnolencia
+Configuración del filtro
+Corte de energía
+Batería baja
+Ojos cerrados
+Bostezo
+Cámara oculta
+Distracción
+Uso del teléfono móvil
+No se detecta ningún rostro
+Bloqueo desactivado
+Bloqueo activo
+Tarjeta SD extraída
+Tarjeta SD insertada
+Cigarrillos
+Cargar configuración de máscara
+Alta sensibilidad
+Ajuste del intervalo de tiempo entre alertas sonoras
+Intervalo de tiempo con los ojos cerrados
+Intervalo de tiempo para bostezar
+Intervalo de tiempo de distracción
+Intervalo de tiempo entre cigarrillos
+Intervalo de tiempo para el uso del teléfono móvil
+Intervalo de tiempo para la cara no detectada
+Configuración de alertas de velocidad
+Ajuste del intervalo de tiempo entre alertas repetidas
+Media
+Configuración de grabación
+Configuración de audio
+Configuración de frenado brusco
+Ajuste de aceleración brusca
+Configuración de curvas pronunciadas
+Informe de permanencia del vehículo
+Permanencia del vehículo
+Zona
+Permanencia
+No existe.
+Listado XLS
+Consolidado XLS
+La norma no podía eliminarse
+Información sobre las normas
+REGLA
+Registro de normas
+Regla de cambio
+Se ha producido un error al intentar cambiar esta regla
+Regla cambiada con éxito.
+Por favor, rellene el campo del cuentakilómetros
+Rellene el campo Días.
+Rellene al menos uno de los campos (Hodómetro / Período).
+Aviso de hodómetro
+Plazo de preaviso
+El campo (Advertencia para el Hodómetro) debe ser más pequeño que el Hodómetro.
+El campo (Notificación por período) debe ser menor que el Período
+Rellene el campo Advertencia para Hodómetro
+Rellene el campo Advertencia de periodo
+Para que este campo se inserte, el campo Hodómetro (Metros) debe tener un valor.
+Rellene al menos uno de los campos (Advertencia por Hodómetro / Advertencia por Período).
+Fecha específica
+Fecha no especificada
+Cuentakilómetros no especificado
+No especificado
+Cancelar mantenimiento
+Información del vehículo
+INSERTAR
+No se ha podido añadir el vehículo
+Se ha producido un error al intentar introducir la información del Vehículo
+Rellene el campo Fecha de inicio
+Una de las normas carece de los datos necesarios
+Rellene los datos de esta regla
+Incluya
+Vehículo incluido con éxito
+Vehículo ya incluido, por favor seleccione otro vehículo
+5 a 45 grados
+Método de sincronización horaria
+1 a 255 Km/h
+La fecha final debe ser posterior a la fecha de inicio
+Debe introducirse la fecha final
+Billete generado correctamente
+Se ha producido un error al intentar cambiar el Ticket
+Se ha producido un error al generar el Ticket
+Se ha producido un problema al generar el correo electrónico del ticket
+Ticket enviado correctamente
+Hubo un problema al enviar el correo electrónico del ticket
+Velocímetro
+No hay medios para esta alarma
+Telemetría
+Activación manual
+Desactivación manual
+Desactivación temporal del vehículo
+Desactivación programada alterada
+No se ha seleccionado ningún vehículo
+Hubo un error al activar el vehículo
+Vehículo(s) activado(s) correctamente
+¿Realmente desea activar los vehículos seleccionados?
+De 1 a 10 segundos
+0 a 0.3
+0.1 a 0.9
+0.2 a 2
+De 5 a 60
+De 5 a 30
+De 1 a 30 segundos
+De 1 a 100 segundos
+De 5 a 10 segundos
+1 a 100000 mm
+Altura
+Distancia al parachoques
+Distancia a la rueda izquierda
+Distancia a la rueda derecha
+Distancia al eje
+-0.3 a 0.6
+Sensibilidad - Aviso de salida de carril
+Sensibilidad - Aviso de colisión frontal
+Sensibilidad - Advertencia de monitor delantero
+Nivel de sensibilidad
+Ojos cerrados detectados - Tiempo de detección
+Detección de ojos cerrados - Sensibilidad
+Llamada detectada - Tiempo de detección
+Llamada telefónica detectada - Sensibilidad
+Llamada detectada - Modo de detección
+Cigarrillo detectado - Tiempo de detección
+Cigarrillo detectado - Sensibilidad
+La apertura de la boca no se utiliza como condición para la detección
+Apertura de la boca utilizada como condición para detectar
+Cigarrillo detectado - Modo de detección
+No utilice la colilla encendida como condición de detección.
+Utilizar la colilla encendida como condición de detección.
+Bostezo detectado - Tiempo de detección
+Bostezo detectado - Sensibilidad
+Distracción detectada - Tiempo de detección
+Distracción detectada - Ángulo de la cabeza hacia la izquierda
+Distracción detectada - Ángulo de la cabeza hacia la derecha
+No se detectan caras - Tiempo de detección
+Calibración facial - Tiempo de detección
+Ojos cerrados continuamente - Tiempo de detección
+Colisión frontal - Intervalo de tiempo
+Vehículo muy próximo - Intervalo de tiempo
+Desviación de rango - Intervalo de tiempo
+Cierre de los ojos - Intervalo de tiempo
+Bostezo - Intervalo de tiempo
+Conductor distraído - Espacio de tiempo
+Llamada de móvil - Intervalo de tiempo
+Humo detectado - Intervalo de tiempo
+Conductor ausente - Intervalo de tiempo
+Configuración del temporizador del punto de acceso
+255: Mantener el wifi encendido mientras esté encendido, o de 1 a 200 minutos.
+Configuración de voz
+Ajuste de sensibilidad
+Configuración de calibración
+Siguiente aviso
+Editar información
+Cancelar edición
+COPIA
+Normas de carga
+Seleccione la regla
+Antec.
+No fue posible cambiar la norma
+Regla insertada correctamente
+No puede ser superior a la fecha actual
+Km
+Matricular varios vehículos
+Desactivar varios vehículos
+Proporcione la lista de placas
+Una placa por fila
+¿Localizar vehículos por matrícula o número de serie?
+Compruebe las placas o el número de serie
+Desactivado con éxito
+Se darán de baja los siguientes vehículos
+Por favor, compruebe los vehículos a cambiar
+Colisión frontal - Intervalo de carga
+Vehículo demasiado cerca - Intervalo de carga
+Desplazamiento de pista - Intervalo de carga
+Cerrar los ojos - Subir intervalo
+Bostezo - Intervalo de carga
+Conductor distraído - Intervalo de carga
+Llamada de móvil - Intervalo de carga
+Humo detectado - Intervalo de carga
+Conductor ausente - Intervalo de carga
+Intervalo de carga de vídeo
+Canal
+Frecuencia de imagen
+Resolución
+Tasa de bits
+Fecha de vencimiento
+Introduzca la lista de equipos
+¿Realmente quiere finalizar (sin tratamiento) TODAS las infracciones?
+¿Realmente quiere finalizar (sin tramitar) todas las infracciones pendientes del vehículo?
+El caso sigue pendiente de tratamiento...
+La infracción sigue pendiente de tratamiento...
+Ha habido un problema al introducir este estado para este suceso...
+Ha habido un problema al introducir este estado para este delito...
+Caso finalizado con éxito.
+Delito concluido con éxito.
+Ha habido un problema al finalizar este suceso...
+Hubo un problema al finalizar esta Infracción...
+Hubo un problema al actualizar Ocurrencia Persistente ...
+Debe completar un tratamiento
+Hubo un problema al cargar los datos de Ocurrencia ...
+Hubo un problema al cargar los datos de la ofensa ...
+Esta Ocurrencia fue finalizada por otro Usuario ...
+Esta Infracción fue finalizada por otro Usuario ...
+Infracciones
+Historial delictivo
+Su búsqueda ha alcanzado el límite de Infracciones por solicitud, para ver los resultados completos debe reducir el periodo.
+Se ha producido un error al introducir el estado "Finalizado sin tratamiento".
+No se han encontrado incidencias para la finalización.
+No se ha detectado ninguna infracción que deba finalizarse.
+Ocurrencias finalizadas con éxito (sin tratamiento).
+Infracciones finalizadas con éxito (sin tratamiento).
+Cuentakilómetros de la última revisión
+Fecha de la última revisión
+Fecha específica para cada vehículo
+Se ha producido un error al abrir el vídeo en tiempo real
+Introduzca el motivo
+Motivo guardado correctamente
+Se ha producido un error al guardar el motivo
+Indique el motivo por el que desea ver el vídeo en tiempo real.
+Vídeo en tiempo real
+Acceso a vídeo en tiempo real
+Introducir una matrícula
+Serial;Board;Display\n(Display es opcional)
+Se pueden incluir una o varias fichas para el cartel y el expositor.
+Ejemplo: "(serie);ZZZ-0000 %EQU_SN% %INC%;coche %EQU_SN%"
+¿Realmente desea eliminar el grupo o grupos seleccionados?
+Grupo(s) eliminado(s) correctamente
+Delito de telemetría
+Confirme
+Grupos y usuarios
+Desvinculado con éxito
+Contrato(s) actualizado(s) correctamente
+Seleccione un contrato
+Contrato
+Equipo(s) no encontrado(s) para esta Planta o Tecnología
+Sin contrato
+Enlace
+Registro
+Registro de equipos
+No hay registros para este equipo
+No se puede acceder al registro del dispositivo
+Configuración de las condiciones de envío
+Desactivar informes
+Activar informes
+De 0 ó 60 a 86400 segundos
+Intervalo de fijación del GPS
+Período activo
+Hora de inicio
+Fin de los tiempos
+Descartar posiciones sin GPS
+Modo Stop
+Conexión corta TCP preferida
+UDP con puerto fijo
+Servidor de copia de seguridad
+Mantener vivo el tiempo
+De 0 a 360 minutos
+Informar en caso de interferencia
+Informe de entrada y salida de interferencias
+Modo de emergencia
+Hora de improvisar
+Sensibilidad celular
+Hora de dejar de improvisar
+De 0 ó 1 a 31
+Aceleración rápida
+Desaceleración rápida
+Vibración de aparcamiento
+Evento SOS
+Exceso de velocidad
+Todos los tipos de eventos ADAS
+Todos los tipos de eventos DMS
+Configuración de eventos por cámara
+Modo de conducción de emergencia
+Modo de aparcamiento de emergencia
+Límite de velocidad bajo la lluvia
+Aviso de velocidad retardada bajo la lluvia
+Intervalo variable aparcado
+Alcance variable máximo estacionado
+Emergencia por manipulación del panel
+Emergencia extrayendo la batería principal
+Emergencia antirrobo
+Puerta antirrobo de emergencia
+Movimiento de emergencia
+Emergencia debida a una manipulación incorrecta
+Puerto de enlace ascendente
+Puerto de enlace descendente
+Intervalo del modo de aparcamiento
+Intervalo del modo de conducción
+Intervalo en modo inactivo
+Modo de remolque a intervalos
+Intervalo del modo de aparcamiento de emergencia
+Intervalo del modo de conducción de emergencia
+Opción de envío STT
+Opción de enviar ALT
+Desactivado, el dispositivo sólo transmite a través de LoRaWAN en caso de emergencia.
+Redundante, el informe STT se transmite siempre a través de LoRaWAN
+Backup, el dispositivo transmite vía LoRaWAN cuando no puede enviar vía GPRS/4G y no está en emergencia
+0 à 205
+Número de transmisiones
+Intervalo de recepción de comandos
+Intervalo de recepción de mensajes
+25 a 1500 (0,1s)
+30 a 1500 (0,1s)
+De 0 a 20160 minutos
+Parámetros del dispositivo ERB
+De 6 a 10 números
+Tiempo de espera del comando del dispositivo
+Tipo de comando para el dispositivo
+Salida de emergencia
+Entrar en emergencia
+Activar el modo de emergencia en la red colaborativa
+Desactivar el modo de emergencia en la red colaborativa
+Canal de RF para el dispositivo
+Código personalizado para el dispositivo
+Configuración de alertas
+Acceso al modo de conducción
+Entrada en modo aparcamiento
+Entrada de ralentí
+Tiempo de inactividad superado
+Entrada en modo de sobrevelocidad
+Exceso de velocidad
+Velocidad por debajo del límite
+Entrada en modo de remolque
+Entrada en modo de aparcamiento de emergencia
+Modo de conducción de emergencia
+Entrar en modo reposo
+Batería de reserva baja
+Dispositivo conectado
+Fuente de alimentación externa conectada
+Fuente de alimentación externa desconectada
+Batería de reserva conectada
+Batería de reserva desconectada
+Error de batería de reserva
+Baja potencia principal
+Antena Gps desconectada
+Antena gps conectada
+Antena gps cortocircuitada
+Tarjeta SIM extraída
+Interferente detectado
+Choque detectado
+Colisión detectada
+Movimiento detectado
+Perfil de conductor calibrado
+Salida de la valla circular
+Entrada a la valla circular
+Salida de la valla poligonal
+Entrar en la valla poligonal
+Violación del panel de control
+Entrada abierta
+Entrada con toma de tierra
+Entrada en modo desconectado
+Módulo que falta
+Módulo perdido recuperado
+Pérdida de cobertura de la red móvil
+Recuperación de la cobertura de la red móvil
+Tiempo de espera del comando ERB
+GPS fijo
+Exceso de velocidad en la valla poligonal
+Velocidad por debajo del límite en la valla poligonal
+Antirrobo activado
+Exceso de velocidad en la valla de circunvalación
+Velocidad por debajo del límite en la valla circular
+Protección contra apertura de puertas
+Pérdida de conexión a la red
+Camión de banco activo a través de valla poligonal
+Camión de banco activo junto a valla circular
+Exceso de velocidad bajo la lluvia
+Exceso de velocidad con lluvia
+IMSI cambiado
+Inmovilizador desactivado mediante teclados
+Introduzca el valor (Kilómetros) para el siguiente límite de revisión
+Introduzca un valor para avisarle cuando el límite del cuentakilómetros esté cerca del máximo
+Introduzca un valor para el límite máximo de la próxima revisión del vehículo
+Introduzca un valor para que le avise cuando el tiempo de la fecha esté a punto de terminar
+Elija un tipo de regla
+Hace la norma para una sola fecha que se repetirá cada año
+No realizado
+Reproducción
+Compruebe la información sobre las normas para continuar
+Sin información
+Tarde
+Próximamente
+Al día
+Motivo de la revisión
+Activación automática
+Activación automática cuando el rastreador se comunica
+Estado de la batería
+Dígitos identificadores RF
+10 dígitos numéricos
+¿Quiere seguir mirando?
+Configuración de Allblock - Tipo de bloqueador
+Allblock
+Bloqueador estándar
+Configuración de Allblock - Bloqueo tras retirar la tarjeta SIM
+Red
+Búsqueda en la red
+Zonas de búsqueda
+Añadir vehículos a la búsqueda
+Motivo de la revisión
+Fecha de mantenimiento
+Especificación externa
+¿Estás seguro de que quieres crear una nueva área de búsqueda para este vehículo?
+¿Está seguro de que desea eliminar todas las áreas de búsqueda de este vehículo?
+¿Está seguro de que desea eliminar esta zona de búsqueda?
+Vehículos elegidos
+Centralización de las zonas de búsqueda
+Eliminar todas las áreas de búsqueda
+Diseñar nueva área de búsqueda

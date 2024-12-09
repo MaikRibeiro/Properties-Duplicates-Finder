@@ -31,7 +31,7 @@ public class GetKeysAndValues {
 		try {
 
 			brReader = new BufferedReader(new InputStreamReader(new FileInputStream("src/com/resources/" + propertiesFile)));
-			brWriter = Files.newBufferedWriter(Paths.get(DuplicatePropertiesFinder.ROOT_URI + "keys.txt"), StandardCharsets.UTF_8);
+			brWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(DuplicatePropertiesFinder.ROOT_URI + "keys.txt"), StandardCharsets.UTF_8));
 			boolean bError = false;
 
 			String line = "";
@@ -55,37 +55,36 @@ public class GetKeysAndValues {
 				if (value == null) {
 					sbError.append("LINE ").append(lineNumber).append(": Invalid key format: ").append(key).append("\n");
 					bError = true;
+
 				} else {
 
 					if (!bError) {
 						if (addOperatorEqual)
-							brWriter.write(key + " =");
+							alKeys.add(key + " =");
 						else
-							brWriter.write(key);
-	
-						brWriter.newLine();
-						alKeys.add(key);
+							alKeys.add(key);
 					}
 				}
-				
+
+
 				lineNumber++;
 			}
 
 			if (bError)
 				System.out.println(sbError.toString());
+
 			else {
-				for (String s : alKeys) {
-					if (addOperatorEqual)
-						System.out.println(s + " =");
-					else
-						System.out.println(s);
+				for (int i = 0; i < alKeys.size(); i++) {
+					brWriter.write(alKeys.get(i));
+					
+					if (i < alKeys.size() - 1)
+						brWriter.newLine();
 				}
+				System.out.println("Completed! Keys file created in src/com/resources/keys.txt");
 			}
-			
-			System.out.println("Completed! Keys file created in src/com/resources/keys.txt");
 
 		} catch (FileNotFoundException e) {
-	    System.err.println("Error: File not found - " + e.getMessage());
+			System.err.println("Error: File not found - " + e.getMessage());
 
 		} catch (IOException e) {
 		    System.err.println("Error: I/O exception occurred - " + e.getMessage());
@@ -111,8 +110,8 @@ public class GetKeysAndValues {
 
 		try {
 
-			brReader = new BufferedReader(new InputStreamReader(new FileInputStream(DuplicatePropertiesFinder.ROOT_URI + propertiesFile), "UTF-8"));
-			bwWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(DuplicatePropertiesFinder.ROOT_URI + "values.txt"), "UTF-8"));
+			brReader = new BufferedReader(new InputStreamReader(new FileInputStream(DuplicatePropertiesFinder.ROOT_URI + propertiesFile), StandardCharsets.ISO_8859_1));
+			bwWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(DuplicatePropertiesFinder.ROOT_URI + "values.txt"), StandardCharsets.ISO_8859_1));
 			boolean bError = false;
 
 			String line = "";
@@ -188,12 +187,12 @@ public class GetKeysAndValues {
 		BufferedWriter bwWriter = null;
 
 		try {
-			brPathKey = new BufferedReader(new InputStreamReader(new FileInputStream(DuplicatePropertiesFinder.ROOT_URI + keys), "UTF-8"));
-			brPathValues = new BufferedReader(new InputStreamReader(new FileInputStream(DuplicatePropertiesFinder.ROOT_URI + values), "UTF-8"));
-			bwWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(DuplicatePropertiesFinder.ROOT_URI + "result.txt"), "UTF-8"));
+			brPathKey = new BufferedReader(new InputStreamReader(new FileInputStream(DuplicatePropertiesFinder.ROOT_URI + keys), StandardCharsets.ISO_8859_1));
+			brPathValues = new BufferedReader(new InputStreamReader(new FileInputStream(DuplicatePropertiesFinder.ROOT_URI + values), StandardCharsets.ISO_8859_1));
+			bwWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(DuplicatePropertiesFinder.ROOT_URI + "result.txt"), StandardCharsets.ISO_8859_1));
 			
 			long keyCount = Files.lines(Paths.get(DuplicatePropertiesFinder.ROOT_URI + keys)).count();
-			long valueCount = Files.lines(Paths.get(DuplicatePropertiesFinder.ROOT_URI + values)).count();
+			long valueCount = Files.lines(Paths.get(DuplicatePropertiesFinder.ROOT_URI + values), StandardCharsets.ISO_8859_1).count();
 
 			if (keyCount != valueCount) {
 				System.err.println("Error: Mismatched number of keys and values.");
@@ -202,27 +201,30 @@ public class GetKeysAndValues {
 
 			String lineKey = "";
 			String lineValue = "";
-			int largestLineLength = 0;
+//			int largestLineLength = 0;
 
 			ArrayList<String> alKeysAndValues = new ArrayList<String>();
 
 			while ((lineKey = brPathKey.readLine()) != null && (lineValue = brPathValues.readLine()) != null) {
-				if (largestLineLength < lineKey.length())
-					largestLineLength = lineKey.length() + 1;
+//				if (largestLineLength < lineKey.length())
+//					largestLineLength = lineKey.length() + 1;
 
-				alKeysAndValues.add(lineKey + " = " + lineValue);
+				alKeysAndValues.add(lineKey.trim() + " = 								" + lineValue.trim());
+				
 			}
 
 			for (int i = 0; i < alKeysAndValues.size(); i++) {
-				String[] fields = alKeysAndValues.get(i).split("=");
-				String key = fields[0];
-				String value = fields[1];
+//				String[] fields = alKeysAndValues.get(i).split("=");
+//				String key = fields[0];
+//				String value = fields[1];
+//
+//				while (key.length() < largestLineLength)
+//					key += " ";
+//
+//				bwWriter.write(key + " = " + value.trim());
 
-				while (key.length() < largestLineLength)
-					key += " ";
-
-				bwWriter.write(key + " = " + value);
-
+				bwWriter.write(alKeysAndValues.get(i).trim());
+//
 				if (i < alKeysAndValues.size() - 1)
 					bwWriter.newLine();
 			}
@@ -235,7 +237,10 @@ public class GetKeysAndValues {
 		} catch (IOException e) {
 		    System.err.println("Error: I/O exception occurred - " + e.getMessage());
 
-		} finally {
+		} catch (Exception e) {
+			System.err.println("Error: exception occurred - " + e.getMessage());
+		}
+		finally {
 			if (brPathKey != null)
 				try { brPathKey.close(); } catch (Exception e2) { System.out.println(e2.getMessage()); }
 
@@ -343,7 +348,6 @@ public class GetKeysAndValues {
         System.err.println("An error occurred: " + e.getMessage());
     } finally {
 			scanner.close();
-		}
-}
-
+	}
+	}
 }
