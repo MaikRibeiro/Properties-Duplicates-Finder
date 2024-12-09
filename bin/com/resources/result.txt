@@ -1,0 +1,7 @@
+THIS_IS_A_DUPLICATE_KEY  =  this is duplicate value
+VALUE_1                  =  value 1
+TEST_0                   =  Teste 0
+TEST_1                   =  Test 1
+TEST_2                   =  Test 2
+TEST_3                   =  Test 3
+TEST_4                   =  Test 4

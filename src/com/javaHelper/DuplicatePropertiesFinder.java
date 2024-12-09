@@ -98,8 +98,8 @@ public class DuplicatePropertiesFinder {
 		}
 	}
 
-	public static void main(String[] args) {
-		DuplicatePropertiesFinder duplicatePropertiesFinder = new DuplicatePropertiesFinder();
-		duplicatePropertiesFinder.checkFile("test.properties");
-	}
+//	public static void main(String[] args) {
+//		DuplicatePropertiesFinder duplicatePropertiesFinder = new DuplicatePropertiesFinder();
+//		duplicatePropertiesFinder.checkFile("test.properties");
+//	}
 }

@@ -14,6 +14,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Scanner;
 import java.util.Set;
 
 public class GetKeysAndValues {
@@ -80,6 +81,8 @@ public class GetKeysAndValues {
 						System.out.println(s);
 				}
 			}
+			
+			System.out.println("Completed! Keys file created in src/com/resources/keys.txt");
 
 		} catch (FileNotFoundException e) {
 	    System.err.println("Error: File not found - " + e.getMessage());
@@ -245,7 +248,102 @@ public class GetKeysAndValues {
 	}
 
 	public static void main(String[] args) {
-		GetKeysAndValues getKeysAndValues = new GetKeysAndValues();
-		getKeysAndValues.getValues("test.properties");
-	}
+		Scanner scanner = new Scanner(System.in);
+		
+    try {
+        String options = "-------WHAT-YOU-WOULD-LIKE-TO-DO-------\n" +
+                         "1. Find Duplicates\n" +
+                         "2. Get Keys\n" +
+                         "3. Get Values\n" +
+                         "4. Get Both\n" +
+                         "5. Match Keys and Values\n" +
+                         "--------------------------------------";
+
+        while (true) {
+            System.out.println(options);
+            String ans = scanner.nextLine().trim();
+
+            switch (ans) {
+                case "1": {
+                    System.out.println("Enter .properties file name:");
+                    String fileName = scanner.nextLine().trim();
+
+                    if (fileName.isEmpty()) {
+                        System.out.println("Error: File name cannot be empty.");
+                    } else {
+                        DuplicatePropertiesFinder duplicatePropertiesFinder = new DuplicatePropertiesFinder();
+                        duplicatePropertiesFinder.checkFile(fileName);
+                    }
+                    break;
+                }
+                case "2": {
+                    System.out.println("Enter .properties file name to get keys:");
+                    String fileName = scanner.nextLine().trim();
+
+                    if (fileName.isEmpty()) {
+                        System.out.println("Error: File name cannot be empty.");
+                    } else {
+                        GetKeysAndValues getKeysAndValues = new GetKeysAndValues();
+                        getKeysAndValues.getKeys(fileName, false); // Example without " ="
+                    }
+                    break;
+                }
+                case "3": {
+                    System.out.println("Enter .properties file name to get values:");
+                    String fileName = scanner.nextLine().trim();
+
+                    if (fileName.isEmpty()) {
+                        System.out.println("Error: File name cannot be empty.");
+                    } else {
+                        GetKeysAndValues getKeysAndValues = new GetKeysAndValues();
+                        getKeysAndValues.getValues(fileName);
+                    }
+                    break;
+                }
+                case "4": {
+                    System.out.println("Enter .properties file name to get both keys and values:");
+                    String fileName = scanner.nextLine().trim();
+
+                    if (fileName.isEmpty()) {
+                        System.out.println("Error: File name cannot be empty.");
+                    } else {
+                        GetKeysAndValues getKeysAndValues = new GetKeysAndValues();
+                        getKeysAndValues.getBoth(fileName, false); // Example without " ="
+                    }
+                    break;
+                }
+                case "5": {
+                    System.out.println("Enter file names for keys and values:");
+                    System.out.print("Keys file: ");
+                    String keysFile = scanner.nextLine().trim();
+                    System.out.print("Values file: ");
+                    String valuesFile = scanner.nextLine().trim();
+
+                    if (keysFile.isEmpty() || valuesFile.isEmpty()) {
+                        System.out.println("Error: File names cannot be empty.");
+                    } else {
+                        GetKeysAndValues getKeysAndValues = new GetKeysAndValues();
+                        getKeysAndValues.matchKeysAndValues(keysFile, valuesFile);
+                    }
+                    break;
+                }
+                default:
+                    System.out.println("Invalid option, please choose a valid option.");
+                    break;
+            }
+
+            System.out.println("Do you want to continue? (y/n):");
+            String continueAnswer = scanner.nextLine().trim();
+            if (!continueAnswer.equalsIgnoreCase("y")) {
+                System.out.println("Exiting...");
+                break;
+            }
+        }
+    } catch (Exception e) {
+        System.err.println("An error occurred: " + e.getMessage());
+    } finally {
+			scanner.close();
+		}
+}
+
 }
